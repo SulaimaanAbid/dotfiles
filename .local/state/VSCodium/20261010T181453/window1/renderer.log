@@ -1,0 +1,11 @@
+2026-10-10 18:14:54.492 [info] Started local extension host with pid 4198.
+2026-10-10 18:14:56.699 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-10-10 18:14:58.324 [info] [perf] Render performance baseline is 55ms
+2026-10-10 18:15:01.713 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-10-10 22:08:45.168 [error] [text file model] handleSaveError(8) - exit - resulted in a save error: Error: Unable to write file '/home/sulaimaan/.config/wlogout/layout' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/sulaimaan/.config/wlogout/layout') file:///home/sulaimaan/.config/wlogout/layout
+2026-10-10 22:08:48.875 [error] [text file model] handleSaveError(8) - exit - resulted in a save error: Error: Unable to write file '/home/sulaimaan/.config/wlogout/layout' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/sulaimaan/.config/wlogout/layout') file:///home/sulaimaan/.config/wlogout/layout
+2026-10-10 22:08:57.918 [error] [text file model] handleSaveError(8) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///home/sulaimaan/.config/wlogout/layout
+2026-10-10 22:09:00.623 [error] [text file model] handleSaveError(8) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///home/sulaimaan/.config/wlogout/layout
+2026-10-10 22:09:07.304 [error] [text file model] handleSaveError(8) - exit - resulted in a save error: Error: Unable to write file '/home/sulaimaan/.config/wlogout/layout' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/sulaimaan/.config/wlogout/layout') file:///home/sulaimaan/.config/wlogout/layout
+2026-10-10 22:21:58.780 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/sulaimaan/usr/share/wlogout/icons/suspend.png?version%3D1791667318475, resourceToLoad=file:///home/sulaimaan/usr/share/wlogout/icons/suspend.png?version%3D1791667318475
+2026-10-10 22:21:59.487 [error] An unknown error occurred. Please consult the log for more details.

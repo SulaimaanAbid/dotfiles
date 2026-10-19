@@ -1,0 +1,135 @@
+2026-10-03 16:50:14.059 [info] [main] Log level: Info
+2026-10-03 16:50:14.059 [info] [main] Validating found git in: "git"
+2026-10-03 16:50:14.059 [info] [main] Using git "2.55.0" from "git"
+2026-10-03 16:50:14.059 [info] [Model][doInitialScan] Initial repository scan started
+2026-10-03 16:50:14.059 [info] > git rev-parse --show-toplevel [7ms]
+2026-10-03 16:50:14.059 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.059 [info] > git rev-parse --show-toplevel [10ms]
+2026-10-03 16:50:14.059 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.242 [info] > git rev-parse --show-toplevel [4ms]
+2026-10-03 16:50:14.242 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.248 [info] > git rev-parse --show-toplevel [1ms]
+2026-10-03 16:50:14.248 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.255 [info] > git rev-parse --show-toplevel [3ms]
+2026-10-03 16:50:14.255 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.260 [info] > git rev-parse --show-toplevel [1ms]
+2026-10-03 16:50:14.260 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.266 [info] > git rev-parse --show-toplevel [2ms]
+2026-10-03 16:50:14.266 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.274 [info] > git rev-parse --show-toplevel [3ms]
+2026-10-03 16:50:14.274 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.282 [info] > git rev-parse --show-toplevel [1ms]
+2026-10-03 16:50:14.282 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.292 [info] > git rev-parse --show-toplevel [0ms]
+2026-10-03 16:50:14.292 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.296 [info] > git rev-parse --show-toplevel [1ms]
+2026-10-03 16:50:14.296 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.302 [info] > git rev-parse --show-toplevel [2ms]
+2026-10-03 16:50:14.302 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.308 [info] > git rev-parse --show-toplevel [1ms]
+2026-10-03 16:50:14.308 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.314 [info] > git rev-parse --show-toplevel [2ms]
+2026-10-03 16:50:14.314 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.321 [info] > git rev-parse --show-toplevel [3ms]
+2026-10-03 16:50:14.321 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.327 [info] > git rev-parse --show-toplevel [2ms]
+2026-10-03 16:50:14.327 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-10-03 16:50:14.335 [info] > git rev-parse --show-toplevel [3ms]
+2026-10-03 16:50:14.344 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [4ms]
+2026-10-03 16:50:14.367 [info] [Model][openRepository] Opened repository (path): /home/sulaimaan/aura-bin
+2026-10-03 16:50:14.367 [info] [Model][openRepository] Opened repository (real path): /home/sulaimaan/aura-bin
+2026-10-03 16:50:14.367 [info] [Model][openRepository] Opened repository (kind): repository
+2026-10-03 16:50:14.384 [info] > git config --get --local core.virtualfilesystem [10ms]
+2026-10-03 16:50:14.384 [warning] [Git][config] git config failed: Failed to execute git
+2026-10-03 16:50:14.392 [info] > git rev-parse --show-toplevel [9ms]
+2026-10-03 16:50:14.392 [info] > git config --get commit.template [13ms]
+2026-10-03 16:50:14.405 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [7ms]
+2026-10-03 16:50:14.419 [info] [Model][openRepository] Opened repository (path): /home/sulaimaan/dotfiles
+2026-10-03 16:50:14.419 [info] [Model][openRepository] Opened repository (real path): /home/sulaimaan/dotfiles
+2026-10-03 16:50:14.419 [info] [Model][openRepository] Opened repository (kind): repository
+2026-10-03 16:50:14.431 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [28ms]
+2026-10-03 16:50:14.446 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/sulaimaan/aura-bin/.git/refs/remotes/origin/master'
+2026-10-03 16:50:14.446 [info] > git config --get commit.template [16ms]
+2026-10-03 16:50:14.446 [info] > git config --get --local core.virtualfilesystem [21ms]
+2026-10-03 16:50:14.446 [warning] [Git][config] git config failed: Failed to execute git
+2026-10-03 16:50:14.449 [info] > git rev-parse refs/remotes/origin/master [4ms]
+2026-10-03 16:50:14.458 [info] > git rev-parse --show-toplevel [18ms]
+2026-10-03 16:50:14.472 [info] > git status -z -uall [19ms]
+2026-10-03 16:50:14.472 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [15ms]
+2026-10-03 16:50:14.497 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2026-10-03 16:50:14.502 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [38ms]
+2026-10-03 16:50:14.502 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [32ms]
+2026-10-03 16:50:14.508 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/sulaimaan/dotfiles/.git/refs/remotes/origin/main'
+2026-10-03 16:50:14.509 [info] > git config --get --local branch.master.vscode-merge-base [7ms]
+2026-10-03 16:50:14.514 [info] > git config --get commit.template [17ms]
+2026-10-03 16:50:14.519 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [5ms]
+2026-10-03 16:50:14.529 [info] > git rev-parse refs/remotes/origin/main [21ms]
+2026-10-03 16:50:14.545 [info] > git merge-base refs/heads/master refs/remotes/origin/master [17ms]
+2026-10-03 16:50:14.554 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% d1e18a768f24e5ede88e98d743087d2bef5dbc4c...refs/remotes/origin/master -- [5ms]
+2026-10-03 16:50:14.555 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2026-10-03 16:50:14.555 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [17ms]
+2026-10-03 16:50:14.561 [info] [Model][openRepository] Opened repository (path): /home/sulaimaan/rofi
+2026-10-03 16:50:14.561 [info] [Model][openRepository] Opened repository (real path): /home/sulaimaan/rofi
+2026-10-03 16:50:14.561 [info] [Model][openRepository] Opened repository (kind): repository
+2026-10-03 16:50:14.569 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/sulaimaan/aura-bin/.git/refs/remotes/origin/master'
+2026-10-03 16:50:14.611 [info] > git config --get commit.template [33ms]
+2026-10-03 16:50:14.611 [info] > git rev-parse refs/remotes/origin/master [42ms]
+2026-10-03 16:50:14.625 [info] > git config --get --local core.virtualfilesystem [60ms]
+2026-10-03 16:50:14.625 [warning] [Git][config] git config failed: Failed to execute git
+2026-10-03 16:50:14.631 [info] > git status -z -uall [14ms]
+2026-10-03 16:50:14.631 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2026-10-03 16:50:14.637 [info] > git rev-parse --show-toplevel [38ms]
+2026-10-03 16:50:14.648 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [4ms]
+2026-10-03 16:50:14.658 [info] [Model][openRepository] Opened repository (path): /home/sulaimaan/yay
+2026-10-03 16:50:14.658 [info] [Model][openRepository] Opened repository (real path): /home/sulaimaan/yay
+2026-10-03 16:50:14.658 [info] [Model][openRepository] Opened repository (kind): repository
+2026-10-03 16:50:14.664 [info] [Model][doInitialScan] Initial repository scan completed - repositories (4), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-10-03 16:50:14.669 [info] > git config --get --local core.virtualfilesystem [5ms]
+2026-10-03 16:50:14.669 [warning] [Git][config] git config failed: Failed to execute git
+2026-10-03 16:50:14.669 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [28ms]
+2026-10-03 16:50:14.675 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/sulaimaan/rofi/.git/refs/remotes/origin/master'
+2026-10-03 16:50:14.675 [info] > git config --get commit.template [7ms]
+2026-10-03 16:50:14.677 [info] > git rev-parse refs/remotes/origin/master [2ms]
+2026-10-03 16:50:14.695 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [8ms]
+2026-10-03 16:50:14.700 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2026-10-03 16:50:14.706 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/sulaimaan/yay/.git/refs/remotes/origin/master'
+2026-10-03 16:50:14.708 [info] > git rev-parse refs/remotes/origin/master [3ms]
+2026-10-03 16:50:14.722 [info] > git status -z -uall [10ms]
+2026-10-03 16:50:14.727 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2026-10-03 16:50:14.770 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms]
+2026-10-03 16:50:14.779 [info] > git config --get commit.template [9ms]
+2026-10-03 16:50:14.783 [info] > git config --get --local branch.master.vscode-merge-base [7ms]
+2026-10-03 16:50:14.794 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2026-10-03 16:50:14.795 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [8ms]
+2026-10-03 16:50:14.807 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/sulaimaan/yay/.git/refs/remotes/origin/master'
+2026-10-03 16:50:14.807 [info] > git merge-base refs/heads/master refs/remotes/origin/master [3ms]
+2026-10-03 16:50:14.815 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% cb43f84828ab4f9700f7c6f9c6d7a923d4cfaff0...refs/remotes/origin/master -- [1ms]
+2026-10-03 16:50:14.815 [info] > git rev-parse refs/remotes/origin/master [8ms]
+2026-10-03 16:50:14.826 [info] > git status -z -uall [8ms]
+2026-10-03 16:50:14.826 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2026-10-03 16:50:15.200 [info] > git status -z -uall [519ms]
+2026-10-03 16:50:15.219 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2026-10-03 16:50:15.226 [info] > git config --get --local branch.master.vscode-merge-base [3ms]
+2026-10-03 16:50:15.231 [info] > git config --get commit.template [12ms]
+2026-10-03 16:50:15.237 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [6ms]
+2026-10-03 16:50:15.242 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2026-10-03 16:50:15.254 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/sulaimaan/rofi/.git/refs/remotes/origin/master'
+2026-10-03 16:50:15.255 [info] > git merge-base refs/heads/master refs/remotes/origin/master [13ms]
+2026-10-03 16:50:15.269 [info] > git rev-parse refs/remotes/origin/master [15ms]
+2026-10-03 16:50:15.289 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2026-10-03 16:50:15.289 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% 512a585fff6da5b2a90e5948059b062516ddb2e7...refs/remotes/origin/master -- [21ms]
+2026-10-03 16:50:15.572 [info] > git status -z -uall [297ms]
+2026-10-03 16:50:17.100 [info] > git status -z -uall [2567ms]
+2026-10-03 16:50:17.121 [info] > git config --get commit.template [2ms]
+2026-10-03 16:50:17.121 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2026-10-03 16:50:17.138 [info] > git config --get --local branch.main.vscode-merge-base [7ms]
+2026-10-03 16:50:17.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [3ms]
+2026-10-03 16:50:17.152 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2026-10-03 16:50:17.156 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/sulaimaan/dotfiles/.git/refs/remotes/origin/main'
+2026-10-03 16:50:17.157 [info] > git merge-base refs/heads/main refs/remotes/origin/main [6ms]
+2026-10-03 16:50:17.172 [info] > git rev-parse refs/remotes/origin/main [16ms]
+2026-10-03 16:50:17.191 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% f4618b595d78ac681e15b488e306ccaa5255e7b0...refs/remotes/origin/main -- [20ms]
+2026-10-03 16:50:17.192 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2026-10-03 16:50:17.609 [info] > git rev-parse --show-toplevel [1ms]
+2026-10-03 16:50:19.014 [info] > git status -z -uall [1837ms]
+2026-10-03 16:50:19.520 [info] > git rev-parse --show-toplevel [1ms]

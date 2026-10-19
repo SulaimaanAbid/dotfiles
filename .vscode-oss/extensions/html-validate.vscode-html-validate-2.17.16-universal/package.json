@@ -1,0 +1,120 @@
+{
+	"name": "vscode-html-validate",
+	"displayName": "HTML-validate",
+	"version": "2.17.16",
+	"description": "vscode extension for html-validate",
+	"categories": [
+		"Programming Languages",
+		"Linters"
+	],
+	"keywords": [
+		"html-validate",
+		"multi-root ready"
+	],
+	"homepage": "https://html-validate.org",
+	"bugs": {
+		"url": "https://gitlab.com/html-validate/vscode-html-validate/issues/new"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://gitlab.com/html-validate/vscode-html-validate.git"
+	},
+	"license": "MIT",
+	"author": "David Sveningsson <ext@sidvind.com>",
+	"publisher": "html-validate",
+	"main": "./client/out/extension.cjs",
+	"files": [
+		"assets/icon.png",
+		"client/out/extension.cjs",
+		"server/out/server.mjs",
+		"schema"
+	],
+	"contributes": {
+		"configuration": {
+			"type": "object",
+			"title": "HTML-Validate",
+			"properties": {
+				"html-validate.enable": {
+					"scope": "resource",
+					"type": "boolean",
+					"default": true,
+					"description": "Controls whether html-validate is enabled or not."
+				},
+				"html-validate.trace.server": {
+					"scope": "window",
+					"type": "string",
+					"enum": [
+						"off",
+						"messages",
+						"verbose"
+					],
+					"default": "off",
+					"description": "Traces the communication between VS Code and the language server."
+				},
+				"html-validate.validate": {
+					"scope": "resource",
+					"type": "array",
+					"items": {
+						"type": "string"
+					},
+					"default": [
+						"html",
+						"javascript",
+						"markdown",
+						"vue",
+						"vue-html"
+					],
+					"description": "An array of language ids which should be validated by HTML-Validate"
+				},
+				"html-validate.configFile": {
+					"scope": "resource",
+					"type": "string",
+					"default": "",
+					"description": "Path to a custom HTML-validate configuration file. If not set, the default configuration file locations are used. Relative paths are resolved from the workspace folder."
+				}
+			}
+		},
+		"jsonValidation": [
+			{
+				"fileMatch": ".htmlvalidate.json",
+				"url": "./schema/config.json"
+			},
+			{
+				"fileMatch": "elements.json",
+				"url": "./schema/elements.json"
+			}
+		],
+		"languages": [
+			{
+				"id": "ignore",
+				"filenames": [
+					".htmlvalidateignore"
+				]
+			}
+		]
+	},
+	"activationEvents": [
+		"onLanguage:html",
+		"workspaceContains:**/.htmlvalidate.{js,json,cjs,mjs}",
+		"workspaceContains:**/html-validate.config.{js,mjs,cjs,ts,mts,cts}"
+	],
+	"engines": {
+		"node": "^20.11 || >= 22.16",
+		"vscode": "^1.92.0"
+	},
+	"icon": "assets/icon.png",
+	"capabilities": {
+		"untrustedWorkspaces": {
+			"supported": false,
+			"description": "The extension requires workspace trust because it loads configuration files and code from the workspace and executes it."
+		}
+	},
+	"vsce": {
+		"dependencies": false
+	},
+	"__metadata": {
+		"installedTimestamp": 1791629472742,
+		"targetPlatform": "universal",
+		"size": 2673515
+	}
+}

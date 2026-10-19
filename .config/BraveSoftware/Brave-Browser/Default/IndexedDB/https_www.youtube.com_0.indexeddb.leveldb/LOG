@@ -1,0 +1,24 @@
+2026/10/11-12:20:01.412 684 Reusing MANIFEST /home/sulaimaan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/11-12:20:01.412 684 Recovering log #34
+2026/10/11-12:20:01.429 684 Reusing old log /home/sulaimaan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000034.log 
+2026/10/11-12:20:03.186 684 Level-0 table #40: started
+2026/10/11-12:20:03.206 684 Level-0 table #40: 3163430 bytes OK
+2026/10/11-12:20:03.211 684 Delete type=0 #34
+2026/10/11-12:30:39.979 683 Compacting 1@1 + 1@2 files
+2026/10/11-12:30:39.990 683 Generated table #41@1: 552 keys, 118151 bytes
+2026/10/11-12:30:39.991 683 Compacted 1@1 + 1@2 files => 118151 bytes
+2026/10/11-12:30:39.994 683 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/11-12:30:39.994 683 Delete type=2 #40
+2026/10/11-12:30:39.995 683 Delete type=2 #37
+2026/10/11-14:33:39.303 684 Level-0 table #43: started
+2026/10/11-14:33:39.320 684 Level-0 table #43: 1939219 bytes OK
+2026/10/11-14:33:39.329 684 Delete type=0 #39
+2026/10/11-14:33:39.329 684 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/10/11-14:33:39.330 684 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x1f\x03f\x9e\xcau\xfd\x12zB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 25688 : 1
+2026/10/11-14:33:39.330 684 Compacting 1@1 + 1@2 files
+2026/10/11-14:33:39.347 684 Generated table #44@1: 540 keys, 59511 bytes
+2026/10/11-14:33:39.347 684 Compacted 1@1 + 1@2 files => 59511 bytes
+2026/10/11-14:33:39.350 684 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/11-14:33:39.352 684 Delete type=2 #41
+2026/10/11-14:33:39.352 684 Delete type=2 #43
+2026/10/11-14:33:39.353 684 Manual compaction at level-1 from '\x00\x08\x01\x1f\x03f\x9e\xcau\xfd\x12zB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 25688 : 1 .. (end); will stop at (end)

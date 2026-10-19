@@ -1,0 +1,49 @@
+@define-color center-bg                 #1D202199;
+@define-color center-notification-bg    #2f343699;
+@define-color notification-bg           #1D202199;
+@define-color background                #09c27299;
+@define-color background-alt            #89B48299;
+@define-color text                      #89B48299;
+@define-color text-alt                  #1D202199;
+@define-color selected                  alpha(@text-alt, .4);
+@define-color hover                     alpha(@selected, .4);
+@define-color urgent                    @text-alt;
+@define-color border                    #09c27299;
+@define-color background-alt2           #A8998499;
+
+
+@define-color bg0 #1D2021;
+@define-color bg1 #282828;
+@define-color bg2 #262a2b;
+@define-color bg3 #45403d;
+@define-color bg4 #2f3436;
+
+@define-color fg0 #D4BE98;
+@define-color red #EA6962;
+@define-color green #A9B665;
+@define-color blue #7DAEA3;
+@define-color yellow #D8A657;
+@define-color orange #E78A4E;
+@define-color aqua #89B482;
+@define-color purple #D3869B;
+
+@define-color green2 #568203;
+@define-color vibrantGreen #09c272;
+@define-color grey3 #c4c4c4;
+
+@define-color grey0 #7C6F64;
+@define-color grey1 #928374;
+@define-color grey2 #A89984;
+
+* {
+    background: #1D2021Ff;
+    background-transparent:     #1D2021bb;
+    background-alt2: rgba(121, 121, 121, 0.23);
+    background-alt: #568203FF;
+    foreground:     rgb(182, 182, 182);
+    selected:       #09c272FF;
+    selected-transparent: #09c27250;  
+    active:         #89B482FF;
+    active-transparent: #89B48260;
+    urgent:         #FB4934FF;
+}

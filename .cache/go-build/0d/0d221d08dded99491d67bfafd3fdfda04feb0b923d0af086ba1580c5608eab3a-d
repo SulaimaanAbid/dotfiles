@@ -1,0 +1,9 @@
+./alpm_funcs.go
+./caller.go
+./free.go
+./functions.go
+./libc_funcs.go
+./loader.go
+./mock.go
+./register.go
+./syscall.go

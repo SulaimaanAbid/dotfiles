@@ -1,0 +1,100 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "67e7323f4167cf0a676a519ed3b552e1b6361edfb6aee25473a8ced5ca7d7a39",
+    "telemetry.devDeviceId": "0361f8fa-17cc-4d0f-a2f1-0759f28a8a42",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/sulaimaan/.config"
+            },
+            {
+                "folderUri": "file:///home/sulaimaan"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/sulaimaan/.config/hypr/Config": "__default__profile__",
+            "file:///home/sulaimaan/.config": "__default__profile__",
+            "file:///home/sulaimaan/Downloads": "__default__profile__",
+            "file:///": "__default__profile__",
+            "file:///home/sulaimaan": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/sulaimaan",
+            "backupPath": "/home/sulaimaan/.config/VSCodium/Backups/ddfe30b748e1f9c386bcf3910667bc75",
+            "uiState": {
+                "mode": 0,
+                "x": 1,
+                "y": 0,
+                "width": 1920,
+                "height": 1080
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#121314",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#bfbfbf",
+            "background": "#121314",
+            "editorBackground": "#121314",
+            "titleBarBackground": "#191a1b",
+            "titleBarBorder": "#2a2b2c",
+            "activityBarBackground": "#191a1b",
+            "activityBarBorder": "#2a2b2c",
+            "sideBarBackground": "#191a1b",
+            "sideBarBorder": "#2a2b2c",
+            "statusBarBackground": "#191a1b",
+            "statusBarBorder": "#2a2b2c",
+            "statusBarNoFolderBackground": "#191a1b"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 232,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 232,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "7df0f17e5bad65b151fc0d9e03fc4a67": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "e77191f90d406e72a640c098b6c7704c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "b566613e8f25019547f01146b7da030a": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "de045d141a8b035fd6afde5a0c3a97e9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "178c1fade0aa972c020cf3bef4332003": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

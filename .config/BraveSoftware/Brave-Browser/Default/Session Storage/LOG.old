@@ -1,0 +1,8 @@
+2026/10/11-11:56:52.802 5 Reusing MANIFEST /home/sulaimaan/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2026/10/11-11:56:52.803 5 Recovering log #18
+2026/10/11-11:56:52.806 5 Level-0 table #21: started
+2026/10/11-11:56:52.816 5 Level-0 table #21: 15275 bytes OK
+2026/10/11-11:56:52.818 5 Recovering log #21
+2026/10/11-11:56:52.827 5 Reusing old log /home/sulaimaan/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000021.log 
+2026/10/11-11:56:52.838 5 Delete type=0 #18
+2026/10/11-11:56:52.838 5 Delete type=2 #22

@@ -1,0 +1,2 @@
+2026-10-11 11:41:48.792 [info] Log path: file:///home/sulaimaan/.vscode-oss/extensions/sumneko.lua-3.19.1-linux-x64/server/log/file_home_sulaimaan.log
+2026-10-11 11:41:48.836 [info] [Error - 11:41:48] Your workspace is set to `/home/sulaimaan`. Lua language server refused to load this directory. Please check your configuration.[learn more here](https://luals.github.io/wiki/faq#why-is-the-server-scanning-the-wrong-folder)

@@ -1,0 +1,14 @@
+2026/10/19-08:38:48.601 316 Reusing MANIFEST /home/sulaimaan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dreamstime.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/19-08:38:48.601 316 Recovering log #14
+2026/10/19-08:38:48.602 316 Reusing old log /home/sulaimaan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dreamstime.com_0.indexeddb.leveldb/000014.log 
+2026/10/19-08:38:48.602 316 Delete type=2 #12
+2026/10/19-08:38:48.616 326 Level-0 table #19: started
+2026/10/19-08:38:48.619 326 Level-0 table #19: 1269 bytes OK
+2026/10/19-08:38:48.622 326 Delete type=0 #14
+2026/10/19-08:38:48.622 316 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 159 : 1
+2026/10/19-08:38:48.623 316 Compacting 1@0 + 1@1 files
+2026/10/19-08:38:48.626 316 Generated table #20@0: 40 keys, 1285 bytes
+2026/10/19-08:38:48.626 316 Compacted 1@0 + 1@1 files => 1285 bytes
+2026/10/19-08:38:48.630 316 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/19-08:38:48.630 316 Delete type=2 #19
+2026/10/19-08:38:48.630 316 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 159 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

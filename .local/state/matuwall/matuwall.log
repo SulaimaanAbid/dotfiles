@@ -1,0 +1,1161 @@
+2026-10-11 14:41:15.363 INFO  startup: matuwall 0.3.2 (pid 29986)
+2026-10-11 14:41:15.363 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 14:41:15.363 ERROR wallpapers: directory unavailable: /home/sulaimaan/Pictures/Wallpapers: No such file or directory
+2026-10-11 14:41:15.364 INFO  output: 1920x1035, grid 5x1, preview off
+2026-10-11 14:41:18.074 INFO  exit: cancelled by Escape
+2026-10-11 14:41:18.074 INFO  exit: status failure
+2026-10-11 14:41:37.225 INFO  startup: matuwall 0.3.2 (pid 30052)
+2026-10-11 14:41:37.225 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 14:41:37.225 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 14:41:37.226 INFO  output: 1920x1035, grid 5x1, preview off
+2026-10-11 14:41:41.274 INFO  thumbnail: summary: 0 cache hits, 13 decoded, 0 failed, 0 discarded, 0 withdrawn, 0 unrequested, 0 unfinished, 0 evicted, 2574 KiB peak resident
+2026-10-11 14:41:41.275 INFO  backend: selected configured backend awww
+2026-10-11 14:41:41.470 INFO  apply: applied /home/sulaimaan/Pictures/cool fantasy forest.jpg with awww
+2026-10-11 14:41:41.471 INFO  exit: status success
+2026-10-11 15:53:25.174 INFO  startup: matuwall 0.3.2 (pid 30494)
+2026-10-11 15:53:25.174 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 15:53:25.174 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 15:53:25.175 INFO  output: 1920x1035, grid 5x1, preview off
+2026-10-11 15:53:25.177 INFO  state: restored selection /home/sulaimaan/Pictures/cool fantasy forest.jpg
+2026-10-11 15:53:44.082 INFO  exit: cancelled by Escape
+2026-10-11 15:53:44.082 INFO  thumbnail: summary: 13 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 0 unrequested, 0 unfinished, 0 evicted, 2574 KiB peak resident
+2026-10-11 15:53:44.082 INFO  exit: status success
+2026-10-11 15:54:05.656 INFO  startup: matuwall 0.3.2 (pid 30513)
+2026-10-11 15:54:05.656 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 15:54:05.657 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 15:54:05.657 INFO  output: 1920x1035, grid 5x1, preview on
+2026-10-11 15:54:05.660 INFO  state: restored selection /home/sulaimaan/Pictures/cool fantasy forest.jpg
+2026-10-11 15:54:15.596 INFO  thumbnail: summary: 13 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 0 unrequested, 0 unfinished, 0 evicted, 2574 KiB peak resident
+2026-10-11 15:54:15.596 INFO  backend: selected configured backend awww
+2026-10-11 15:54:15.597 INFO  backend: passing 4 configured args to awww
+2026-10-11 15:54:15.724 INFO  apply: applied /home/sulaimaan/Pictures/sunset nature deer digital.jpg with awww
+2026-10-11 15:54:15.724 INFO  exit: status success
+2026-10-11 15:54:47.068 INFO  startup: matuwall 0.3.2 (pid 30537)
+2026-10-11 15:54:47.068 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 15:54:47.069 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 15:54:47.069 INFO  output: 1920x1035, grid 5x1, preview off
+2026-10-11 15:54:47.071 INFO  state: restored selection /home/sulaimaan/Pictures/sunset nature deer digital.jpg
+2026-10-11 15:54:54.353 INFO  exit: cancelled by Escape
+2026-10-11 15:54:54.354 INFO  thumbnail: summary: 13 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 0 unrequested, 0 unfinished, 0 evicted, 2574 KiB peak resident
+2026-10-11 15:54:54.354 INFO  exit: status success
+2026-10-11 15:55:05.537 INFO  startup: matuwall 0.3.2 (pid 30556)
+2026-10-11 15:55:05.537 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 15:55:05.537 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 15:55:05.538 INFO  output: 1920x1035, grid 5x1, preview off
+2026-10-11 15:55:05.540 INFO  state: restored selection /home/sulaimaan/Pictures/sunset nature deer digital.jpg
+2026-10-11 15:55:07.565 INFO  exit: cancelled by Escape
+2026-10-11 15:55:07.567 INFO  thumbnail: summary: 13 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 0 unrequested, 0 unfinished, 0 evicted, 2574 KiB peak resident
+2026-10-11 15:55:07.567 INFO  exit: status success
+2026-10-11 16:06:47.970 INFO  startup: matuwall 0.3.2 (pid 30795)
+2026-10-11 16:06:47.970 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:06:47.970 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:06:47.970 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:06:47.971 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:06:47.973 INFO  state: restored selection /home/sulaimaan/Pictures/sunset nature deer digital.jpg
+2026-10-11 16:06:55.357 INFO  exit: cancelled by Escape
+2026-10-11 16:06:55.357 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 1782 KiB peak resident
+2026-10-11 16:06:55.357 INFO  exit: status success
+2026-10-11 16:07:40.785 INFO  startup: matuwall 0.3.2 (pid 30804)
+2026-10-11 16:07:40.785 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:07:40.785 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:07:40.785 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:07:40.786 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:07:40.788 INFO  state: restored selection /home/sulaimaan/Pictures/sunset nature deer digital.jpg
+2026-10-11 16:07:50.109 INFO  exit: cancelled by Escape
+2026-10-11 16:07:50.109 INFO  thumbnail: summary: 12 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 3 evicted, 1782 KiB peak resident
+2026-10-11 16:07:50.109 INFO  exit: status success
+2026-10-11 16:08:24.964 INFO  startup: matuwall 0.3.2 (pid 30809)
+2026-10-11 16:08:24.964 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:08:24.964 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:08:24.964 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:08:24.965 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:08:24.967 INFO  state: restored selection /home/sulaimaan/Pictures/sunset nature deer digital.jpg
+2026-10-11 16:08:29.255 INFO  exit: cancelled by Escape
+2026-10-11 16:08:29.255 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 1782 KiB peak resident
+2026-10-11 16:08:29.255 INFO  exit: status success
+2026-10-11 16:08:37.678 INFO  startup: matuwall 0.3.2 (pid 30814)
+2026-10-11 16:08:37.678 WARN  config: line 52: margin must be 0..4096; using default
+2026-10-11 16:08:37.678 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:08:37.678 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:08:37.679 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:08:37.679 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:08:37.680 INFO  state: restored selection /home/sulaimaan/Pictures/sunset nature deer digital.jpg
+2026-10-11 16:08:44.890 INFO  exit: cancelled by Escape
+2026-10-11 16:08:44.891 INFO  thumbnail: summary: 12 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 3 evicted, 1782 KiB peak resident
+2026-10-11 16:08:44.891 INFO  exit: status success
+2026-10-11 16:08:47.832 INFO  startup: matuwall 0.3.2 (pid 30819)
+2026-10-11 16:08:47.832 WARN  config: line 52: margin must be 0..4096; using default
+2026-10-11 16:08:47.832 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:08:47.832 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:08:47.832 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:08:47.833 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:08:47.835 INFO  state: restored selection /home/sulaimaan/Pictures/sunset nature deer digital.jpg
+2026-10-11 16:08:49.862 INFO  exit: cancelled by Escape
+2026-10-11 16:08:49.863 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 1782 KiB peak resident
+2026-10-11 16:08:49.864 INFO  exit: status success
+2026-10-11 16:09:03.507 INFO  startup: matuwall 0.3.2 (pid 30824)
+2026-10-11 16:09:03.508 WARN  config: line 55: edge_margin must be 0..4096; using default
+2026-10-11 16:09:03.508 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:09:03.508 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:09:03.508 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:09:03.509 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:09:03.510 INFO  state: restored selection /home/sulaimaan/Pictures/sunset nature deer digital.jpg
+2026-10-11 16:09:05.261 INFO  exit: cancelled by Escape
+2026-10-11 16:09:05.262 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 1782 KiB peak resident
+2026-10-11 16:09:05.262 INFO  exit: status success
+2026-10-11 16:09:12.834 INFO  startup: matuwall 0.3.2 (pid 30829)
+2026-10-11 16:09:12.834 WARN  config: line 69: zoom_percent must be 0..10; using default
+2026-10-11 16:09:12.834 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:09:12.834 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:09:12.835 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:09:12.835 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:09:12.837 INFO  state: restored selection /home/sulaimaan/Pictures/sunset nature deer digital.jpg
+2026-10-11 16:09:16.432 INFO  exit: cancelled by Escape
+2026-10-11 16:09:16.434 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 1782 KiB peak resident
+2026-10-11 16:09:16.435 INFO  exit: status success
+2026-10-11 16:09:21.150 INFO  startup: matuwall 0.3.2 (pid 30834)
+2026-10-11 16:09:21.150 WARN  config: line 69: zoom_percent must be 0..10; using default
+2026-10-11 16:09:21.150 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:09:21.150 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:09:21.150 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:09:21.151 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:09:21.153 INFO  state: restored selection /home/sulaimaan/Pictures/sunset nature deer digital.jpg
+2026-10-11 16:09:27.067 INFO  exit: cancelled by Escape
+2026-10-11 16:09:27.067 INFO  thumbnail: summary: 12 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 3 evicted, 1782 KiB peak resident
+2026-10-11 16:09:27.067 INFO  exit: status success
+2026-10-11 16:09:35.454 INFO  startup: matuwall 0.3.2 (pid 30841)
+2026-10-11 16:09:35.454 WARN  config: /home/sulaimaan/.config/matuwall/config.toml:69: unrecognized value; using defaults
+2026-10-11 16:09:35.454 ERROR wallpapers: directory unavailable: /home/sulaimaan/Pictures/Wallpapers: No such file or directory
+2026-10-11 16:09:35.455 INFO  output: 1920x1035, grid 5x1, preview off
+2026-10-11 16:09:35.457 INFO  state: remembered wallpaper is no longer present
+2026-10-11 16:09:36.913 INFO  exit: replaced by a newer matuwall launch
+2026-10-11 16:09:36.914 INFO  exit: status failure
+2026-10-11 16:09:36.913 INFO  startup: matuwall 0.3.2 (pid 30843)
+2026-10-11 16:09:36.913 WARN  config: /home/sulaimaan/.config/matuwall/config.toml:69: unrecognized value; using defaults
+2026-10-11 16:09:36.923 INFO  instance: replaced the previous picker
+2026-10-11 16:09:36.924 ERROR wallpapers: directory unavailable: /home/sulaimaan/Pictures/Wallpapers: No such file or directory
+2026-10-11 16:09:36.924 INFO  output: 1920x1035, grid 5x1, preview off
+2026-10-11 16:09:36.926 INFO  state: remembered wallpaper is no longer present
+2026-10-11 16:09:38.322 INFO  exit: cancelled by Escape
+2026-10-11 16:09:38.323 INFO  exit: status failure
+2026-10-11 16:09:40.113 INFO  startup: matuwall 0.3.2 (pid 30845)
+2026-10-11 16:09:40.113 WARN  config: line 69: zoom_percent must be 0..10; using default
+2026-10-11 16:09:40.113 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:09:40.113 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:09:40.114 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:09:40.123 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:09:40.124 INFO  state: restored selection /home/sulaimaan/Pictures/sunset nature deer digital.jpg
+2026-10-11 16:09:44.209 INFO  exit: cancelled by Escape
+2026-10-11 16:09:44.210 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 1782 KiB peak resident
+2026-10-11 16:09:44.210 INFO  exit: status success
+2026-10-11 16:09:47.077 INFO  startup: matuwall 0.3.2 (pid 30850)
+2026-10-11 16:09:47.077 WARN  config: line 69: zoom_percent must be 0..10; using default
+2026-10-11 16:09:47.077 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:09:47.077 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:09:47.078 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:09:47.078 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:09:47.080 INFO  state: restored selection /home/sulaimaan/Pictures/sunset nature deer digital.jpg
+2026-10-11 16:09:51.848 INFO  exit: cancelled by Escape
+2026-10-11 16:09:51.849 INFO  thumbnail: summary: 12 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 3 evicted, 1782 KiB peak resident
+2026-10-11 16:09:51.849 INFO  exit: status success
+2026-10-11 16:10:02.640 INFO  startup: matuwall 0.3.2 (pid 30855)
+2026-10-11 16:10:02.640 WARN  config: line 69: zoom_percent must be 0..10; using default
+2026-10-11 16:10:02.640 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:10:02.640 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:10:02.640 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:10:02.641 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:10:02.642 INFO  state: restored selection /home/sulaimaan/Pictures/sunset nature deer digital.jpg
+2026-10-11 16:10:04.714 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 1782 KiB peak resident
+2026-10-11 16:10:04.714 INFO  backend: selected configured backend awww
+2026-10-11 16:10:04.714 INFO  backend: passing 4 configured args to awww
+2026-10-11 16:10:04.840 INFO  apply: applied /home/sulaimaan/Pictures/sunset nature deer digital.jpg with awww
+2026-10-11 16:10:04.840 INFO  exit: status success
+2026-10-11 16:10:10.036 INFO  startup: matuwall 0.3.2 (pid 30864)
+2026-10-11 16:10:10.036 WARN  config: line 69: zoom_percent must be 0..10; using default
+2026-10-11 16:10:10.036 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:10:10.036 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:10:10.036 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:10:10.037 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:10:10.039 INFO  state: restored selection /home/sulaimaan/Pictures/sunset nature deer digital.jpg
+2026-10-11 16:10:15.958 INFO  thumbnail: summary: 18 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 9 evicted, 1782 KiB peak resident
+2026-10-11 16:10:15.958 INFO  backend: selected configured backend awww
+2026-10-11 16:10:15.958 INFO  backend: passing 4 configured args to awww
+2026-10-11 16:10:15.996 INFO  apply: applied /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg with awww
+2026-10-11 16:10:15.996 INFO  exit: status success
+2026-10-11 16:10:24.315 INFO  startup: matuwall 0.3.2 (pid 30870)
+2026-10-11 16:10:24.315 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:10:24.315 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:10:24.315 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:10:24.316 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:10:24.318 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:10:25.624 INFO  exit: cancelled by Escape
+2026-10-11 16:10:25.625 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 1782 KiB peak resident
+2026-10-11 16:10:25.625 INFO  exit: status success
+2026-10-11 16:10:26.856 INFO  startup: matuwall 0.3.2 (pid 30875)
+2026-10-11 16:10:26.856 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:10:26.856 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:10:26.856 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:10:26.857 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:10:26.862 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:10:28.012 INFO  exit: cancelled by Escape
+2026-10-11 16:10:28.012 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 1782 KiB peak resident
+2026-10-11 16:10:28.012 INFO  exit: status success
+2026-10-11 16:10:36.565 INFO  startup: matuwall 0.3.2 (pid 30914)
+2026-10-11 16:10:36.565 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:10:36.565 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:10:36.566 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:10:36.566 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:10:36.568 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:10:47.302 INFO  exit: cancelled by Escape
+2026-10-11 16:10:47.303 INFO  thumbnail: summary: 11 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 2 evicted, 1782 KiB peak resident
+2026-10-11 16:10:47.303 INFO  exit: status success
+2026-10-11 16:11:15.549 INFO  startup: matuwall 0.3.2 (pid 30995)
+2026-10-11 16:11:15.549 WARN  config: line 69: zoom_percent must be 0..10; using default
+2026-10-11 16:11:15.549 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:11:15.549 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:11:15.549 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:11:15.563 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:11:28.138 INFO  exit: cancelled by Escape
+2026-10-11 16:11:28.139 INFO  thumbnail: summary: 12 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 3 evicted, 1782 KiB peak resident
+2026-10-11 16:11:28.139 INFO  exit: status success
+2026-10-11 16:11:39.103 INFO  startup: matuwall 0.3.2 (pid 31013)
+2026-10-11 16:11:39.103 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:11:39.104 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:11:39.104 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:11:39.106 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:11:43.522 INFO  exit: cancelled by Escape
+2026-10-11 16:11:43.523 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 1782 KiB peak resident
+2026-10-11 16:11:43.523 INFO  exit: status success
+2026-10-11 16:11:46.962 INFO  startup: matuwall 0.3.2 (pid 31045)
+2026-10-11 16:11:46.962 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:11:46.962 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:11:46.963 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:11:46.964 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:11:48.687 INFO  exit: cancelled by Escape
+2026-10-11 16:11:48.687 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 1782 KiB peak resident
+2026-10-11 16:11:48.687 INFO  exit: status success
+2026-10-11 16:12:03.125 INFO  startup: matuwall 0.3.2 (pid 31061)
+2026-10-11 16:12:03.125 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:12:03.125 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:12:03.126 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:12:03.128 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:12:05.440 INFO  exit: cancelled by Escape
+2026-10-11 16:12:05.441 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 1782 KiB peak resident
+2026-10-11 16:12:05.441 INFO  exit: status success
+2026-10-11 16:12:08.045 INFO  startup: matuwall 0.3.2 (pid 31066)
+2026-10-11 16:12:08.045 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:12:08.045 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:12:08.046 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:12:08.048 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:12:11.171 INFO  exit: cancelled by Escape
+2026-10-11 16:12:11.172 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 1782 KiB peak resident
+2026-10-11 16:12:11.172 INFO  exit: status success
+2026-10-11 16:12:14.579 INFO  startup: matuwall 0.3.2 (pid 31071)
+2026-10-11 16:12:14.579 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:12:14.579 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:12:14.580 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:12:14.582 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:12:24.146 INFO  exit: cancelled by Escape
+2026-10-11 16:12:24.146 INFO  thumbnail: summary: 12 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 3 evicted, 1782 KiB peak resident
+2026-10-11 16:12:24.146 INFO  exit: status success
+2026-10-11 16:12:29.096 INFO  startup: matuwall 0.3.2 (pid 31076)
+2026-10-11 16:12:29.097 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:12:29.097 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:12:29.097 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:12:29.105 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:12:31.544 INFO  exit: cancelled by Escape
+2026-10-11 16:12:31.544 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 1782 KiB peak resident
+2026-10-11 16:12:31.545 INFO  exit: status success
+2026-10-11 16:12:35.819 INFO  startup: matuwall 0.3.2 (pid 31081)
+2026-10-11 16:12:35.819 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:12:35.820 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:12:35.820 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:12:35.822 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:12:42.259 INFO  exit: cancelled by Escape
+2026-10-11 16:12:42.260 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 1782 KiB peak resident
+2026-10-11 16:12:42.260 INFO  exit: status success
+2026-10-11 16:13:02.838 INFO  startup: matuwall 0.3.2 (pid 31086)
+2026-10-11 16:13:02.838 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:13:02.839 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:13:02.839 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:13:02.841 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:13:07.239 INFO  exit: cancelled by Escape
+2026-10-11 16:13:07.240 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 1782 KiB peak resident
+2026-10-11 16:13:07.240 INFO  exit: status success
+2026-10-11 16:13:11.239 INFO  startup: matuwall 0.3.2 (pid 31091)
+2026-10-11 16:13:11.239 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:13:11.240 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:13:11.240 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:13:11.242 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:13:15.976 INFO  exit: cancelled by Escape
+2026-10-11 16:13:15.976 INFO  thumbnail: summary: 11 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 2 evicted, 1782 KiB peak resident
+2026-10-11 16:13:15.978 INFO  exit: status success
+2026-10-11 16:13:18.397 INFO  startup: matuwall 0.3.2 (pid 31096)
+2026-10-11 16:13:18.397 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:13:18.397 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:13:18.398 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:13:18.399 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:13:21.873 INFO  exit: cancelled by Escape
+2026-10-11 16:13:21.873 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 1782 KiB peak resident
+2026-10-11 16:13:21.873 INFO  exit: status success
+2026-10-11 16:13:28.821 INFO  startup: matuwall 0.3.2 (pid 31101)
+2026-10-11 16:13:28.821 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:13:28.821 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:13:28.822 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:13:28.823 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:13:30.902 INFO  exit: cancelled by Escape
+2026-10-11 16:13:30.903 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 1782 KiB peak resident
+2026-10-11 16:13:30.903 INFO  exit: status success
+2026-10-11 16:13:33.361 INFO  startup: matuwall 0.3.2 (pid 31106)
+2026-10-11 16:13:33.361 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:13:33.361 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:13:33.362 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:13:33.364 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:13:35.696 INFO  exit: cancelled by Escape
+2026-10-11 16:13:35.697 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 1782 KiB peak resident
+2026-10-11 16:13:35.697 INFO  exit: status success
+2026-10-11 16:13:51.684 INFO  startup: matuwall 0.3.2 (pid 31111)
+2026-10-11 16:13:51.684 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:13:51.685 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:13:51.686 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:13:51.687 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:13:55.786 INFO  exit: cancelled by Escape
+2026-10-11 16:13:55.786 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 1782 KiB peak resident
+2026-10-11 16:13:55.788 INFO  exit: status success
+2026-10-11 16:14:00.086 INFO  startup: matuwall 0.3.2 (pid 31116)
+2026-10-11 16:14:00.086 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:14:00.086 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:14:00.087 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:14:00.089 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:14:02.215 INFO  exit: cancelled by Escape
+2026-10-11 16:14:02.215 INFO  thumbnail: summary: 0 cache hits, 10 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 2109 KiB peak resident
+2026-10-11 16:14:02.216 INFO  exit: status success
+2026-10-11 16:15:25.857 INFO  startup: matuwall 0.3.2 (pid 31155)
+2026-10-11 16:15:25.857 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:15:25.857 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:15:25.858 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:15:25.861 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:15:33.087 INFO  exit: cancelled by Escape
+2026-10-11 16:15:33.090 INFO  thumbnail: summary: 0 cache hits, 11 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 2 evicted, 3164 KiB peak resident
+2026-10-11 16:15:33.091 INFO  exit: status success
+2026-10-11 16:23:02.319 INFO  startup: matuwall 0.3.2 (pid 31234)
+2026-10-11 16:23:02.319 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:23:02.319 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:23:02.320 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:23:02.323 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:23:21.572 INFO  exit: cancelled by Escape
+2026-10-11 16:23:21.572 INFO  thumbnail: summary: 14 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 5 evicted, 3164 KiB peak resident
+2026-10-11 16:23:21.573 INFO  exit: status success
+2026-10-11 16:27:00.651 INFO  startup: matuwall 0.3.2 (pid 31302)
+2026-10-11 16:27:00.651 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:27:00.651 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:27:00.652 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:27:00.656 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:27:03.302 INFO  exit: cancelled by Escape
+2026-10-11 16:27:03.302 INFO  thumbnail: summary: 0 cache hits, 9 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 7129 KiB peak resident
+2026-10-11 16:27:03.303 INFO  exit: status success
+2026-10-11 16:27:15.159 INFO  startup: matuwall 0.3.2 (pid 31307)
+2026-10-11 16:27:15.159 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:27:15.159 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:27:15.159 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:27:15.160 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:27:15.164 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:27:17.609 INFO  exit: cancelled by Escape
+2026-10-11 16:27:17.610 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 7129 KiB peak resident
+2026-10-11 16:27:17.612 INFO  exit: status success
+2026-10-11 16:27:20.011 INFO  startup: matuwall 0.3.2 (pid 31312)
+2026-10-11 16:27:20.011 WARN  config: line 76: spacing must be 0..4096; using default
+2026-10-11 16:27:20.011 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:27:20.011 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:27:20.012 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:27:20.016 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:27:21.415 INFO  exit: cancelled by Escape
+2026-10-11 16:27:21.415 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 7129 KiB peak resident
+2026-10-11 16:27:21.416 INFO  exit: status success
+2026-10-11 16:27:43.864 INFO  startup: matuwall 0.3.2 (pid 31324)
+2026-10-11 16:27:43.865 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:27:43.865 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:27:43.865 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 16:27:43.869 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:27:52.768 INFO  exit: cancelled by Escape
+2026-10-11 16:27:52.769 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 3 evicted, 4753 KiB peak resident
+2026-10-11 16:27:52.769 INFO  exit: status success
+2026-10-11 16:28:03.020 INFO  startup: matuwall 0.3.2 (pid 31339)
+2026-10-11 16:28:03.020 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:28:03.020 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:28:03.021 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:28:03.025 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:28:08.769 INFO  exit: cancelled by Escape
+2026-10-11 16:28:08.770 INFO  thumbnail: summary: 9 cache hits, 1 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 7129 KiB peak resident
+2026-10-11 16:28:08.770 INFO  exit: status success
+2026-10-11 16:28:38.653 INFO  startup: matuwall 0.3.2 (pid 31344)
+2026-10-11 16:28:38.653 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:28:38.653 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:28:38.654 INFO  output: 1920x1035, grid 1x2, preview off
+2026-10-11 16:28:38.657 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:28:42.578 INFO  exit: cancelled by Escape
+2026-10-11 16:28:42.579 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 4753 KiB peak resident
+2026-10-11 16:28:42.579 INFO  exit: status success
+2026-10-11 16:28:53.736 INFO  startup: matuwall 0.3.2 (pid 31349)
+2026-10-11 16:28:53.737 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:28:53.737 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:28:53.737 INFO  output: 1920x1035, grid 1x2, preview off
+2026-10-11 16:28:53.741 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:28:55.195 INFO  exit: cancelled by Escape
+2026-10-11 16:28:55.196 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 4753 KiB peak resident
+2026-10-11 16:28:55.196 INFO  exit: status success
+2026-10-11 16:28:58.827 INFO  startup: matuwall 0.3.2 (pid 31354)
+2026-10-11 16:28:58.827 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:28:58.827 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:28:58.828 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:28:58.832 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:28:59.510 INFO  exit: cancelled by Escape
+2026-10-11 16:28:59.511 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 7129 KiB peak resident
+2026-10-11 16:28:59.511 INFO  exit: status success
+2026-10-11 16:29:07.919 INFO  startup: matuwall 0.3.2 (pid 31359)
+2026-10-11 16:29:07.919 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:29:07.920 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:29:07.921 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:29:07.925 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:29:12.546 INFO  exit: cancelled by Escape
+2026-10-11 16:29:12.547 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 7129 KiB peak resident
+2026-10-11 16:29:12.548 INFO  exit: status success
+2026-10-11 16:29:17.030 INFO  startup: matuwall 0.3.2 (pid 31364)
+2026-10-11 16:29:17.030 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:29:17.030 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:29:17.031 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:29:17.035 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:29:20.314 INFO  exit: cancelled by Escape
+2026-10-11 16:29:20.315 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 7129 KiB peak resident
+2026-10-11 16:29:20.316 INFO  exit: status success
+2026-10-11 16:29:22.614 INFO  startup: matuwall 0.3.2 (pid 31369)
+2026-10-11 16:29:22.614 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:29:22.614 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:29:22.617 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:29:22.620 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:29:25.115 INFO  exit: cancelled by Escape
+2026-10-11 16:29:25.115 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 7129 KiB peak resident
+2026-10-11 16:29:25.116 INFO  exit: status success
+2026-10-11 16:29:33.347 INFO  startup: matuwall 0.3.2 (pid 31375)
+2026-10-11 16:29:33.347 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:29:33.347 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:29:33.348 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:29:33.352 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:29:35.803 INFO  exit: cancelled by Escape
+2026-10-11 16:29:35.808 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 7129 KiB peak resident
+2026-10-11 16:29:35.808 INFO  exit: status success
+2026-10-11 16:29:37.584 INFO  startup: matuwall 0.3.2 (pid 31380)
+2026-10-11 16:29:37.585 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:29:37.585 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:29:37.586 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:29:37.590 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:29:39.816 INFO  exit: cancelled by Escape
+2026-10-11 16:29:39.817 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 7129 KiB peak resident
+2026-10-11 16:29:39.818 INFO  exit: status success
+2026-10-11 16:29:41.177 INFO  startup: matuwall 0.3.2 (pid 31385)
+2026-10-11 16:29:41.177 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:29:41.177 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:29:41.178 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:29:41.182 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:29:42.631 INFO  exit: cancelled by Escape
+2026-10-11 16:29:42.632 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 7129 KiB peak resident
+2026-10-11 16:29:42.633 INFO  exit: status success
+2026-10-11 16:29:45.686 INFO  startup: matuwall 0.3.2 (pid 31390)
+2026-10-11 16:29:45.686 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:29:45.686 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:29:45.687 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:29:45.691 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:29:46.497 INFO  exit: cancelled by Escape
+2026-10-11 16:29:46.499 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 7129 KiB peak resident
+2026-10-11 16:29:46.499 INFO  exit: status success
+2026-10-11 16:29:48.852 INFO  startup: matuwall 0.3.2 (pid 31395)
+2026-10-11 16:29:48.852 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:29:48.852 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:29:48.853 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 16:29:48.857 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:29:55.678 INFO  exit: cancelled by Escape
+2026-10-11 16:29:55.679 INFO  thumbnail: summary: 7 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 1 evicted, 4753 KiB peak resident
+2026-10-11 16:29:55.679 INFO  exit: status success
+2026-10-11 16:29:59.846 INFO  startup: matuwall 0.3.2 (pid 31401)
+2026-10-11 16:29:59.846 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:29:59.846 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:29:59.847 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 16:29:59.853 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:30:01.701 INFO  exit: cancelled by Escape
+2026-10-11 16:30:01.702 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 4753 KiB peak resident
+2026-10-11 16:30:01.702 INFO  exit: status success
+2026-10-11 16:30:04.148 INFO  startup: matuwall 0.3.2 (pid 31406)
+2026-10-11 16:30:04.148 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:30:04.148 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:30:04.149 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:30:04.153 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:30:16.763 INFO  exit: cancelled by Escape
+2026-10-11 16:30:16.765 INFO  thumbnail: summary: 11 cache hits, 1 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 3 evicted, 7129 KiB peak resident
+2026-10-11 16:30:16.766 INFO  exit: status success
+2026-10-11 16:30:18.569 INFO  startup: matuwall 0.3.2 (pid 31411)
+2026-10-11 16:30:18.569 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:30:18.570 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:30:18.570 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:30:18.574 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:30:23.634 INFO  exit: cancelled by Escape
+2026-10-11 16:30:23.636 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 7129 KiB peak resident
+2026-10-11 16:30:23.638 INFO  exit: status success
+2026-10-11 16:32:38.873 INFO  startup: matuwall 0.3.2 (pid 31421)
+2026-10-11 16:32:38.873 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:32:38.873 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:32:38.874 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:32:38.878 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:32:40.939 INFO  exit: cancelled by Escape
+2026-10-11 16:32:40.939 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 7129 KiB peak resident
+2026-10-11 16:32:40.940 INFO  exit: status success
+2026-10-11 16:32:50.073 INFO  startup: matuwall 0.3.2 (pid 31426)
+2026-10-11 16:32:50.074 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:32:50.074 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:32:50.075 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:32:50.077 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:32:52.820 INFO  exit: cancelled by Escape
+2026-10-11 16:32:52.820 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 3164 KiB peak resident
+2026-10-11 16:32:52.821 INFO  exit: status success
+2026-10-11 16:33:02.926 INFO  startup: matuwall 0.3.2 (pid 31432)
+2026-10-11 16:33:02.926 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:33:02.927 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:33:02.936 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:33:02.938 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:33:05.482 INFO  exit: cancelled by Escape
+2026-10-11 16:33:05.482 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 3164 KiB peak resident
+2026-10-11 16:33:05.483 INFO  exit: status success
+2026-10-11 16:33:11.905 INFO  startup: matuwall 0.3.2 (pid 31437)
+2026-10-11 16:33:11.906 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:33:11.906 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:33:11.906 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:33:11.909 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:33:16.044 INFO  exit: cancelled by Escape
+2026-10-11 16:33:16.046 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 3164 KiB peak resident
+2026-10-11 16:33:16.046 INFO  exit: status success
+2026-10-11 16:33:21.150 INFO  startup: matuwall 0.3.2 (pid 31442)
+2026-10-11 16:33:21.150 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:33:21.150 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:33:21.151 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:33:21.154 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:33:25.332 INFO  exit: cancelled by Escape
+2026-10-11 16:33:25.334 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 3164 KiB peak resident
+2026-10-11 16:33:25.335 INFO  exit: status success
+2026-10-11 16:33:32.436 INFO  startup: matuwall 0.3.2 (pid 31447)
+2026-10-11 16:33:32.436 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:33:32.436 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:33:32.437 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:33:32.440 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:33:33.674 INFO  exit: cancelled by Escape
+2026-10-11 16:33:33.677 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 3164 KiB peak resident
+2026-10-11 16:33:33.677 INFO  exit: status success
+2026-10-11 16:33:34.889 INFO  startup: matuwall 0.3.2 (pid 31452)
+2026-10-11 16:33:34.889 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:33:34.889 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:33:34.890 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:33:34.892 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:33:37.240 INFO  exit: cancelled by Escape
+2026-10-11 16:33:37.241 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 3164 KiB peak resident
+2026-10-11 16:33:37.241 INFO  exit: status success
+2026-10-11 16:33:48.754 INFO  startup: matuwall 0.3.2 (pid 31457)
+2026-10-11 16:33:48.754 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:33:48.754 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:33:48.755 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:33:48.758 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:33:49.708 INFO  exit: cancelled by Escape
+2026-10-11 16:33:49.712 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 3164 KiB peak resident
+2026-10-11 16:33:49.712 INFO  exit: status success
+2026-10-11 16:33:56.734 INFO  startup: matuwall 0.3.2 (pid 31462)
+2026-10-11 16:33:56.734 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:33:56.734 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:33:56.735 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:33:56.738 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:34:01.898 INFO  exit: cancelled by Escape
+2026-10-11 16:34:01.900 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 3164 KiB peak resident
+2026-10-11 16:34:01.900 INFO  exit: status success
+2026-10-11 16:34:04.398 INFO  startup: matuwall 0.3.2 (pid 31467)
+2026-10-11 16:34:04.398 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:34:04.398 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:34:04.399 INFO  output: 1920x1035, grid 1x1, preview off
+2026-10-11 16:34:04.401 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:34:05.496 INFO  exit: cancelled by Escape
+2026-10-11 16:34:05.497 INFO  thumbnail: summary: 3 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 10 unrequested, 0 unfinished, 0 evicted, 1054 KiB peak resident
+2026-10-11 16:34:05.497 INFO  exit: status success
+2026-10-11 16:34:07.238 INFO  startup: matuwall 0.3.2 (pid 31472)
+2026-10-11 16:34:07.238 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:34:07.238 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:34:07.239 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 16:34:07.242 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:34:23.520 INFO  exit: cancelled by Escape
+2026-10-11 16:34:23.521 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 4 evicted, 2109 KiB peak resident
+2026-10-11 16:34:23.521 INFO  exit: status success
+2026-10-11 16:34:24.709 INFO  startup: matuwall 0.3.2 (pid 31477)
+2026-10-11 16:34:24.709 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:34:24.709 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:34:24.710 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 16:34:24.713 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:34:29.673 INFO  exit: cancelled by Escape
+2026-10-11 16:34:29.673 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 2109 KiB peak resident
+2026-10-11 16:34:29.673 INFO  exit: status success
+2026-10-11 16:34:32.540 INFO  startup: matuwall 0.3.2 (pid 31483)
+2026-10-11 16:34:32.541 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:34:32.541 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:34:32.542 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 16:34:32.544 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:34:33.689 INFO  exit: cancelled by Escape
+2026-10-11 16:34:33.689 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 2109 KiB peak resident
+2026-10-11 16:34:33.690 INFO  exit: status success
+2026-10-11 16:34:35.056 INFO  startup: matuwall 0.3.2 (pid 31488)
+2026-10-11 16:34:35.056 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:34:35.057 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:34:35.057 INFO  output: 1920x1035, grid 1x1, preview off
+2026-10-11 16:34:35.059 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:34:36.076 INFO  exit: cancelled by Escape
+2026-10-11 16:34:36.076 INFO  thumbnail: summary: 3 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 10 unrequested, 0 unfinished, 0 evicted, 1054 KiB peak resident
+2026-10-11 16:34:36.076 INFO  exit: status success
+2026-10-11 16:34:37.882 INFO  startup: matuwall 0.3.2 (pid 31493)
+2026-10-11 16:34:37.882 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:34:37.883 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:34:37.884 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:34:37.886 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:34:41.667 INFO  exit: cancelled by Escape
+2026-10-11 16:34:41.671 INFO  thumbnail: summary: 11 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 2 evicted, 3164 KiB peak resident
+2026-10-11 16:34:41.671 INFO  exit: status success
+2026-10-11 16:34:44.622 INFO  startup: matuwall 0.3.2 (pid 31501)
+2026-10-11 16:34:44.623 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:34:44.623 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:34:44.623 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:34:44.626 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:34:46.252 INFO  exit: cancelled by Escape
+2026-10-11 16:34:46.253 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 3164 KiB peak resident
+2026-10-11 16:34:46.253 INFO  exit: status success
+2026-10-11 16:35:09.430 INFO  startup: matuwall 0.3.2 (pid 31517)
+2026-10-11 16:35:09.430 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:35:09.430 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:35:09.431 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 16:35:09.433 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:35:10.325 INFO  exit: cancelled by Escape
+2026-10-11 16:35:10.326 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 1782 KiB peak resident
+2026-10-11 16:35:10.326 INFO  exit: status success
+2026-10-11 16:35:18.704 INFO  startup: matuwall 0.3.2 (pid 31522)
+2026-10-11 16:35:18.704 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:35:18.704 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:35:18.705 INFO  output: 1920x1035, grid 4x1, preview off
+2026-10-11 16:35:18.708 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:35:34.714 INFO  exit: cancelled by Escape
+2026-10-11 16:35:34.715 INFO  thumbnail: summary: 15 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 1 unrequested, 0 unfinished, 3 evicted, 2376 KiB peak resident
+2026-10-11 16:35:34.715 INFO  exit: status success
+2026-10-11 16:35:37.587 INFO  startup: matuwall 0.3.2 (pid 31527)
+2026-10-11 16:35:37.587 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:35:37.588 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:35:37.589 INFO  output: 1920x1035, grid 1x1, preview off
+2026-10-11 16:35:37.590 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:35:39.227 INFO  exit: replaced by a newer matuwall launch
+2026-10-11 16:35:39.227 INFO  thumbnail: summary: 3 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 10 unrequested, 0 unfinished, 0 evicted, 594 KiB peak resident
+2026-10-11 16:35:39.228 INFO  exit: status success
+2026-10-11 16:35:39.226 INFO  startup: matuwall 0.3.2 (pid 31532)
+2026-10-11 16:35:39.226 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:35:39.237 INFO  instance: replaced the previous picker
+2026-10-11 16:35:39.237 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:35:39.238 INFO  output: 1920x1035, grid 1x1, preview off
+2026-10-11 16:35:39.238 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:35:42.508 INFO  exit: cancelled by Escape
+2026-10-11 16:35:42.508 INFO  thumbnail: summary: 3 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 10 unrequested, 0 unfinished, 0 evicted, 594 KiB peak resident
+2026-10-11 16:35:42.508 INFO  exit: status success
+2026-10-11 16:35:44.123 INFO  startup: matuwall 0.3.2 (pid 31540)
+2026-10-11 16:35:44.123 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:35:44.123 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:35:44.124 INFO  output: 1920x1035, grid 1x1, preview off
+2026-10-11 16:35:44.125 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:35:46.349 INFO  exit: cancelled by Escape
+2026-10-11 16:35:46.350 INFO  thumbnail: summary: 3 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 10 unrequested, 0 unfinished, 0 evicted, 594 KiB peak resident
+2026-10-11 16:35:46.350 INFO  exit: status success
+2026-10-11 16:35:50.884 INFO  startup: matuwall 0.3.2 (pid 31555)
+2026-10-11 16:35:50.884 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:35:50.884 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:35:50.885 INFO  output: 1920x1035, grid 5x1, preview off
+2026-10-11 16:35:50.887 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:35:52.513 INFO  exit: cancelled by Escape
+2026-10-11 16:35:52.514 INFO  thumbnail: summary: 13 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 0 unrequested, 0 unfinished, 0 evicted, 2574 KiB peak resident
+2026-10-11 16:35:52.514 INFO  exit: status success
+2026-10-11 16:35:54.674 INFO  startup: matuwall 0.3.2 (pid 31560)
+2026-10-11 16:35:54.674 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:35:54.674 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:35:54.675 INFO  output: 1920x1035, grid 5x1, preview off
+2026-10-11 16:35:54.678 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:35:58.510 INFO  exit: cancelled by Escape
+2026-10-11 16:35:58.511 INFO  thumbnail: summary: 13 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 0 unrequested, 0 unfinished, 0 evicted, 2574 KiB peak resident
+2026-10-11 16:35:58.511 INFO  exit: status success
+2026-10-11 16:36:01.174 INFO  startup: matuwall 0.3.2 (pid 31565)
+2026-10-11 16:36:01.174 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 16:36:01.174 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 16:36:01.175 INFO  output: 1920x1035, grid 5x1, preview off
+2026-10-11 16:36:01.178 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 16:36:02.147 INFO  exit: cancelled by Escape
+2026-10-11 16:36:02.147 INFO  thumbnail: summary: 13 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 0 unrequested, 0 unfinished, 0 evicted, 2574 KiB peak resident
+2026-10-11 16:36:02.147 INFO  exit: status success
+2026-10-11 21:31:52.940 INFO  startup: matuwall 0.3.2 (pid 106927)
+2026-10-11 21:31:52.940 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:31:52.940 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:31:52.941 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 21:31:52.942 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:31:54.001 INFO  exit: replaced by a newer matuwall launch
+2026-10-11 21:31:54.001 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 1782 KiB peak resident
+2026-10-11 21:31:54.001 INFO  exit: status success
+2026-10-11 21:31:54.001 INFO  startup: matuwall 0.3.2 (pid 106932)
+2026-10-11 21:31:54.001 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:31:54.011 INFO  instance: replaced the previous picker
+2026-10-11 21:31:54.011 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:31:54.012 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 21:31:54.013 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:31:56.431 INFO  exit: cancelled by Escape
+2026-10-11 21:31:56.432 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 1782 KiB peak resident
+2026-10-11 21:31:56.432 INFO  exit: status success
+2026-10-11 21:32:32.087 INFO  startup: matuwall 0.3.2 (pid 107594)
+2026-10-11 21:32:32.087 WARN  config: /home/sulaimaan/.config/matuwall/config.toml:108: unrecognized value; using defaults
+2026-10-11 21:32:32.087 ERROR wallpapers: directory unavailable: /home/sulaimaan/Pictures/Wallpapers: No such file or directory
+2026-10-11 21:32:32.088 INFO  output: 1920x1035, grid 5x1, preview off
+2026-10-11 21:32:32.090 INFO  state: remembered wallpaper is no longer present
+2026-10-11 21:32:33.183 INFO  exit: cancelled by Escape
+2026-10-11 21:32:33.183 INFO  exit: status failure
+2026-10-11 21:32:41.144 INFO  startup: matuwall 0.3.2 (pid 107596)
+2026-10-11 21:32:41.144 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:32:41.144 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:32:41.149 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:32:41.153 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:33:09.930 INFO  exit: cancelled by Escape
+2026-10-11 21:33:09.931 INFO  thumbnail: summary: 7 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 1 evicted, 4753 KiB peak resident
+2026-10-11 21:33:09.931 INFO  exit: status success
+2026-10-11 21:34:29.619 INFO  startup: matuwall 0.3.2 (pid 107625)
+2026-10-11 21:34:29.619 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:34:29.619 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:34:29.620 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:34:29.626 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:34:33.538 INFO  exit: cancelled by Escape
+2026-10-11 21:34:33.539 INFO  thumbnail: summary: 0 cache hits, 7 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 1 evicted, 6534 KiB peak resident
+2026-10-11 21:34:33.539 INFO  exit: status success
+2026-10-11 21:34:35.457 INFO  startup: matuwall 0.3.2 (pid 107630)
+2026-10-11 21:34:35.457 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:34:35.457 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:34:35.458 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:34:35.463 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:34:43.624 INFO  exit: cancelled by Escape
+2026-10-11 21:34:43.624 INFO  thumbnail: summary: 7 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 1 evicted, 6534 KiB peak resident
+2026-10-11 21:34:43.625 INFO  exit: status success
+2026-10-11 21:34:54.897 INFO  startup: matuwall 0.3.2 (pid 107636)
+2026-10-11 21:34:54.897 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:34:54.898 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:34:54.898 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:34:54.903 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:35:04.247 INFO  exit: cancelled by Escape
+2026-10-11 21:35:04.247 INFO  thumbnail: summary: 7 cache hits, 1 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 2 evicted, 6534 KiB peak resident
+2026-10-11 21:35:04.248 INFO  exit: status success
+2026-10-11 21:35:08.506 INFO  startup: matuwall 0.3.2 (pid 107641)
+2026-10-11 21:35:08.506 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:35:08.506 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:35:08.507 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:35:08.515 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:35:09.652 INFO  exit: cancelled by Escape
+2026-10-11 21:35:09.652 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 6534 KiB peak resident
+2026-10-11 21:35:09.653 INFO  exit: status success
+2026-10-11 21:35:17.328 INFO  startup: matuwall 0.3.2 (pid 107647)
+2026-10-11 21:35:17.328 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:35:17.328 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:35:17.329 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:35:17.333 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:35:27.150 INFO  exit: cancelled by Escape
+2026-10-11 21:35:27.156 INFO  thumbnail: summary: 8 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 2 evicted, 6534 KiB peak resident
+2026-10-11 21:35:27.156 INFO  exit: status success
+2026-10-11 21:35:40.052 INFO  startup: matuwall 0.3.2 (pid 107652)
+2026-10-11 21:35:40.052 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:35:40.052 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:35:40.053 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:35:40.057 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:35:46.312 INFO  exit: cancelled by Escape
+2026-10-11 21:35:46.313 INFO  thumbnail: summary: 8 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 2 evicted, 6534 KiB peak resident
+2026-10-11 21:35:46.313 INFO  exit: status success
+2026-10-11 21:35:51.969 INFO  startup: matuwall 0.3.2 (pid 107657)
+2026-10-11 21:35:51.969 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:35:51.969 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:35:51.970 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:35:51.975 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:35:54.727 INFO  exit: cancelled by Escape
+2026-10-11 21:35:54.727 INFO  thumbnail: summary: 7 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 1 evicted, 6534 KiB peak resident
+2026-10-11 21:35:54.728 INFO  exit: status success
+2026-10-11 21:37:57.691 INFO  startup: matuwall 0.3.2 (pid 107668)
+2026-10-11 21:37:57.692 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:37:57.692 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:37:57.693 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:37:57.698 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:38:22.363 INFO  exit: cancelled by Escape
+2026-10-11 21:38:22.365 INFO  thumbnail: summary: 12 cache hits, 5 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 11 evicted, 6534 KiB peak resident
+2026-10-11 21:38:22.366 INFO  exit: status success
+2026-10-11 21:39:16.758 INFO  startup: matuwall 0.3.2 (pid 107677)
+2026-10-11 21:39:16.758 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:39:16.758 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:39:16.759 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:39:16.764 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:39:25.641 INFO  exit: cancelled by Escape
+2026-10-11 21:39:25.642 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 6534 KiB peak resident
+2026-10-11 21:39:25.643 INFO  exit: status success
+2026-10-11 21:39:39.744 INFO  startup: matuwall 0.3.2 (pid 107683)
+2026-10-11 21:39:39.744 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:39:39.744 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:39:39.745 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:39:39.749 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:40:00.915 INFO  exit: cancelled by Escape
+2026-10-11 21:40:00.916 INFO  thumbnail: summary: 8 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 2 evicted, 6534 KiB peak resident
+2026-10-11 21:40:00.916 INFO  exit: status success
+2026-10-11 21:40:10.497 INFO  startup: matuwall 0.3.2 (pid 107688)
+2026-10-11 21:40:10.498 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:40:10.498 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:40:10.499 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:40:10.502 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:40:18.533 INFO  exit: cancelled by Escape
+2026-10-11 21:40:18.535 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 4753 KiB peak resident
+2026-10-11 21:40:18.535 INFO  exit: status success
+2026-10-11 21:40:32.176 INFO  startup: matuwall 0.3.2 (pid 107693)
+2026-10-11 21:40:32.176 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:40:32.177 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:40:32.177 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 21:40:32.181 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:40:45.276 INFO  exit: cancelled by Escape
+2026-10-11 21:40:45.276 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 0 evicted, 7129 KiB peak resident
+2026-10-11 21:40:45.277 INFO  exit: status success
+2026-10-11 21:40:47.230 INFO  startup: matuwall 0.3.2 (pid 107698)
+2026-10-11 21:40:47.230 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:40:47.231 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:40:47.231 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 21:40:47.235 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:41:01.950 INFO  exit: cancelled by Escape
+2026-10-11 21:41:01.950 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 7129 KiB peak resident
+2026-10-11 21:41:01.951 INFO  exit: status success
+2026-10-11 21:41:07.074 INFO  startup: matuwall 0.3.2 (pid 107703)
+2026-10-11 21:41:07.074 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:41:07.074 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:41:07.075 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 21:41:07.078 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:41:18.712 INFO  exit: cancelled by Escape
+2026-10-11 21:41:18.712 INFO  thumbnail: summary: 11 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 2 evicted, 7129 KiB peak resident
+2026-10-11 21:41:18.713 INFO  exit: status success
+2026-10-11 21:41:58.635 INFO  startup: matuwall 0.3.2 (pid 107710)
+2026-10-11 21:41:58.635 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:41:58.635 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:41:58.636 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 21:41:58.639 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:42:05.210 INFO  exit: cancelled by Escape
+2026-10-11 21:42:05.210 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 7129 KiB peak resident
+2026-10-11 21:42:05.211 INFO  exit: status success
+2026-10-11 21:42:16.097 INFO  startup: matuwall 0.3.2 (pid 107715)
+2026-10-11 21:42:16.098 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:42:16.098 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:42:16.099 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 21:42:16.102 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:42:21.931 INFO  exit: cancelled by Escape
+2026-10-11 21:42:21.932 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 7129 KiB peak resident
+2026-10-11 21:42:21.932 INFO  exit: status success
+2026-10-11 21:42:24.681 INFO  startup: matuwall 0.3.2 (pid 107721)
+2026-10-11 21:42:24.681 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:42:24.681 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:42:24.682 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:42:24.687 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:42:53.154 INFO  exit: cancelled by Escape
+2026-10-11 21:42:53.155 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 4 evicted, 4753 KiB peak resident
+2026-10-11 21:42:53.155 INFO  exit: status success
+2026-10-11 21:43:01.192 INFO  startup: matuwall 0.3.2 (pid 107726)
+2026-10-11 21:43:01.192 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:43:01.192 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:43:01.193 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:43:01.198 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:43:09.262 INFO  exit: cancelled by Escape
+2026-10-11 21:43:09.263 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 3 evicted, 4753 KiB peak resident
+2026-10-11 21:43:09.263 INFO  exit: status success
+2026-10-11 21:43:10.941 INFO  startup: matuwall 0.3.2 (pid 107731)
+2026-10-11 21:43:10.941 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:43:10.941 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:43:10.942 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:43:10.947 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:43:12.168 INFO  exit: cancelled by Escape
+2026-10-11 21:43:12.170 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 4753 KiB peak resident
+2026-10-11 21:43:12.170 INFO  exit: status success
+2026-10-11 21:43:14.955 INFO  startup: matuwall 0.3.2 (pid 107736)
+2026-10-11 21:43:14.955 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:43:14.955 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:43:14.956 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:43:14.960 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:43:18.459 INFO  exit: cancelled by Escape
+2026-10-11 21:43:18.460 INFO  thumbnail: summary: 7 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 1 evicted, 4753 KiB peak resident
+2026-10-11 21:43:18.460 INFO  exit: status success
+2026-10-11 21:43:19.195 INFO  startup: matuwall 0.3.2 (pid 107741)
+2026-10-11 21:43:19.195 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:43:19.195 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:43:19.196 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:43:19.200 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:43:23.783 INFO  exit: cancelled by Escape
+2026-10-11 21:43:23.785 INFO  thumbnail: summary: 8 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 2 evicted, 4753 KiB peak resident
+2026-10-11 21:43:23.785 INFO  exit: status success
+2026-10-11 21:43:28.662 INFO  startup: matuwall 0.3.2 (pid 107746)
+2026-10-11 21:43:28.663 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:43:28.663 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:43:28.663 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:43:28.667 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:43:32.595 INFO  exit: cancelled by Escape
+2026-10-11 21:43:32.595 INFO  thumbnail: summary: 7 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 1 evicted, 4753 KiB peak resident
+2026-10-11 21:43:32.596 INFO  exit: status success
+2026-10-11 21:43:40.371 INFO  startup: matuwall 0.3.2 (pid 107751)
+2026-10-11 21:43:40.371 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:43:40.372 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:43:40.372 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:43:40.376 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:43:51.110 INFO  exit: cancelled by Escape
+2026-10-11 21:43:51.112 INFO  thumbnail: summary: 8 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 2 evicted, 4753 KiB peak resident
+2026-10-11 21:43:51.113 INFO  exit: status success
+2026-10-11 21:43:56.338 INFO  startup: matuwall 0.3.2 (pid 107757)
+2026-10-11 21:43:56.339 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:43:56.339 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:43:56.340 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:43:56.344 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:44:00.024 INFO  exit: cancelled by Escape
+2026-10-11 21:44:00.025 INFO  thumbnail: summary: 14 cache hits, 2 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 10 evicted, 4753 KiB peak resident
+2026-10-11 21:44:00.025 INFO  exit: status success
+2026-10-11 21:44:08.851 INFO  startup: matuwall 0.3.2 (pid 107762)
+2026-10-11 21:44:08.851 WARN  config: line 69: zoom_percent must be 0..10; using default
+2026-10-11 21:44:08.851 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:44:08.851 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:44:08.852 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:44:08.856 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:44:12.041 INFO  exit: cancelled by Escape
+2026-10-11 21:44:12.042 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 4753 KiB peak resident
+2026-10-11 21:44:12.042 INFO  exit: status success
+2026-10-11 21:44:13.961 INFO  startup: matuwall 0.3.2 (pid 107767)
+2026-10-11 21:44:13.961 WARN  config: line 69: zoom_percent must be 0..10; using default
+2026-10-11 21:44:13.961 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:44:13.961 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:44:13.962 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:44:13.966 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:44:18.295 INFO  exit: cancelled by Escape
+2026-10-11 21:44:18.295 INFO  thumbnail: summary: 7 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 1 evicted, 4753 KiB peak resident
+2026-10-11 21:44:18.296 INFO  exit: status success
+2026-10-11 21:44:19.890 INFO  startup: matuwall 0.3.2 (pid 107774)
+2026-10-11 21:44:19.890 WARN  config: line 69: zoom_percent must be 0..10; using default
+2026-10-11 21:44:19.890 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:44:19.890 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:44:19.891 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:44:19.895 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:44:23.269 INFO  exit: cancelled by Escape
+2026-10-11 21:44:23.272 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 4753 KiB peak resident
+2026-10-11 21:44:23.272 INFO  exit: status success
+2026-10-11 21:44:25.574 INFO  startup: matuwall 0.3.2 (pid 107780)
+2026-10-11 21:44:25.574 WARN  config: line 69: zoom_percent must be 0..10; using default
+2026-10-11 21:44:25.574 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:44:25.575 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:44:25.575 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:44:25.579 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:44:27.041 INFO  exit: cancelled by Escape
+2026-10-11 21:44:27.042 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 4753 KiB peak resident
+2026-10-11 21:44:27.042 INFO  exit: status success
+2026-10-11 21:44:29.831 INFO  startup: matuwall 0.3.2 (pid 107785)
+2026-10-11 21:44:29.831 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:44:29.831 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:44:29.832 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:44:29.835 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:44:31.551 INFO  exit: cancelled by Escape
+2026-10-11 21:44:31.552 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 4753 KiB peak resident
+2026-10-11 21:44:31.552 INFO  exit: status success
+2026-10-11 21:44:36.497 INFO  startup: matuwall 0.3.2 (pid 107790)
+2026-10-11 21:44:36.497 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:44:36.497 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:44:36.498 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:44:36.502 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:44:40.442 INFO  exit: cancelled by Escape
+2026-10-11 21:44:40.443 INFO  thumbnail: summary: 7 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 1 evicted, 4753 KiB peak resident
+2026-10-11 21:44:40.443 INFO  exit: status success
+2026-10-11 21:44:41.815 INFO  startup: matuwall 0.3.2 (pid 107795)
+2026-10-11 21:44:41.815 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:44:41.815 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:44:41.816 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:44:41.820 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:44:51.641 INFO  exit: cancelled by Escape
+2026-10-11 21:44:51.642 INFO  thumbnail: summary: 8 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 2 evicted, 4753 KiB peak resident
+2026-10-11 21:44:51.642 INFO  exit: status success
+2026-10-11 21:44:54.291 INFO  startup: matuwall 0.3.2 (pid 107801)
+2026-10-11 21:44:54.291 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:44:54.291 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:44:54.292 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:44:54.295 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:45:07.855 INFO  exit: cancelled by Escape
+2026-10-11 21:45:07.858 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 3 evicted, 4753 KiB peak resident
+2026-10-11 21:45:07.858 INFO  exit: status success
+2026-10-11 21:45:10.209 INFO  startup: matuwall 0.3.2 (pid 107806)
+2026-10-11 21:45:10.209 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:45:10.209 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:45:10.210 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:45:10.213 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:45:16.661 INFO  exit: cancelled by Escape
+2026-10-11 21:45:16.661 INFO  thumbnail: summary: 7 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 1 evicted, 4753 KiB peak resident
+2026-10-11 21:45:16.661 INFO  exit: status success
+2026-10-11 21:45:19.408 INFO  startup: matuwall 0.3.2 (pid 107811)
+2026-10-11 21:45:19.408 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:45:19.409 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:45:19.409 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:45:19.413 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:45:26.228 INFO  exit: cancelled by Escape
+2026-10-11 21:45:26.229 INFO  thumbnail: summary: 7 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 1 evicted, 4753 KiB peak resident
+2026-10-11 21:45:26.229 INFO  exit: status success
+2026-10-11 21:45:28.499 INFO  startup: matuwall 0.3.2 (pid 107816)
+2026-10-11 21:45:28.499 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:45:28.499 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:45:28.500 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 21:45:28.504 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:45:33.946 INFO  exit: cancelled by Escape
+2026-10-11 21:45:33.946 INFO  thumbnail: summary: 11 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 2 evicted, 7129 KiB peak resident
+2026-10-11 21:45:33.947 INFO  exit: status success
+2026-10-11 21:45:36.344 INFO  startup: matuwall 0.3.2 (pid 107821)
+2026-10-11 21:45:36.344 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:45:36.344 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:45:36.345 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:45:36.348 INFO  state: restored selection /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg
+2026-10-11 21:45:51.010 INFO  thumbnail: summary: 13 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 7 evicted, 4753 KiB peak resident
+2026-10-11 21:45:51.010 INFO  backend: selected configured backend awww
+2026-10-11 21:45:51.010 INFO  backend: passing 4 configured args to awww
+2026-10-11 21:45:51.063 INFO  apply: applied /home/sulaimaan/Pictures/aesthetic-red-pc-7mum7serxrnzk3bd.jpg with awww
+2026-10-11 21:45:51.063 INFO  exit: status success
+2026-10-11 21:45:57.459 INFO  startup: matuwall 0.3.2 (pid 107827)
+2026-10-11 21:45:57.459 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:45:57.459 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:45:57.460 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 21:45:57.464 INFO  state: restored selection /home/sulaimaan/Pictures/aesthetic-red-pc-7mum7serxrnzk3bd.jpg
+2026-10-11 21:46:00.100 INFO  exit: cancelled by Escape
+2026-10-11 21:46:00.100 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 7129 KiB peak resident
+2026-10-11 21:46:00.101 INFO  exit: status success
+2026-10-11 21:46:12.462 INFO  startup: matuwall 0.3.2 (pid 107833)
+2026-10-11 21:46:12.462 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:46:12.462 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:46:12.463 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:46:12.467 INFO  state: restored selection /home/sulaimaan/Pictures/aesthetic-red-pc-7mum7serxrnzk3bd.jpg
+2026-10-11 21:46:15.883 INFO  thumbnail: summary: 8 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 2 evicted, 4753 KiB peak resident
+2026-10-11 21:46:15.883 INFO  backend: selected configured backend awww
+2026-10-11 21:46:15.883 INFO  backend: passing 4 configured args to awww
+2026-10-11 21:46:16.019 INFO  apply: applied /home/sulaimaan/Pictures/city night japan mountains.jpeg with awww
+2026-10-11 21:46:16.019 INFO  exit: status success
+2026-10-11 21:46:25.251 INFO  startup: matuwall 0.3.2 (pid 107840)
+2026-10-11 21:46:25.251 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:46:25.251 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:46:25.252 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:46:25.255 INFO  state: restored selection /home/sulaimaan/Pictures/city night japan mountains.jpeg
+2026-10-11 21:46:30.405 INFO  exit: cancelled by Escape
+2026-10-11 21:46:30.406 INFO  thumbnail: summary: 7 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 1 evicted, 4753 KiB peak resident
+2026-10-11 21:46:30.406 INFO  exit: status success
+2026-10-11 21:48:50.662 INFO  startup: matuwall 0.3.2 (pid 107851)
+2026-10-11 21:48:50.662 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:48:50.662 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:48:50.663 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:48:50.666 INFO  state: restored selection /home/sulaimaan/Pictures/city night japan mountains.jpeg
+2026-10-11 21:48:58.300 INFO  exit: cancelled by Escape
+2026-10-11 21:48:58.301 INFO  thumbnail: summary: 9 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 3 evicted, 4753 KiB peak resident
+2026-10-11 21:48:58.302 INFO  exit: status success
+2026-10-11 21:49:29.659 INFO  startup: matuwall 0.3.2 (pid 107860)
+2026-10-11 21:49:29.659 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:49:29.659 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:49:29.660 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:49:29.663 INFO  state: restored selection /home/sulaimaan/Pictures/city night japan mountains.jpeg
+2026-10-11 21:49:43.144 INFO  exit: cancelled by Escape
+2026-10-11 21:49:43.144 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 4 evicted, 4753 KiB peak resident
+2026-10-11 21:49:43.144 INFO  exit: status success
+2026-10-11 21:49:44.899 INFO  startup: matuwall 0.3.2 (pid 107865)
+2026-10-11 21:49:44.899 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:49:44.899 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:49:44.902 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:49:44.906 INFO  state: restored selection /home/sulaimaan/Pictures/city night japan mountains.jpeg
+2026-10-11 21:49:47.443 INFO  exit: cancelled by Escape
+2026-10-11 21:49:47.444 INFO  thumbnail: summary: 7 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 1 evicted, 4753 KiB peak resident
+2026-10-11 21:49:47.444 INFO  exit: status success
+2026-10-11 21:50:13.688 INFO  startup: matuwall 0.3.2 (pid 107870)
+2026-10-11 21:50:13.688 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:50:13.688 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:50:13.689 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 21:50:13.693 INFO  state: restored selection /home/sulaimaan/Pictures/city night japan mountains.jpeg
+2026-10-11 21:50:27.681 INFO  exit: cancelled by Escape
+2026-10-11 21:50:27.682 INFO  thumbnail: summary: 2 cache hits, 11 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 4 evicted, 5941 KiB peak resident
+2026-10-11 21:50:27.682 INFO  exit: status success
+2026-10-11 21:50:42.436 INFO  startup: matuwall 0.3.2 (pid 107875)
+2026-10-11 21:50:42.436 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:50:42.436 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:50:42.437 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:50:42.441 INFO  state: restored selection /home/sulaimaan/Pictures/city night japan mountains.jpeg
+2026-10-11 21:50:47.014 INFO  exit: cancelled by Escape
+2026-10-11 21:50:47.015 INFO  thumbnail: summary: 7 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 1 evicted, 3960 KiB peak resident
+2026-10-11 21:50:47.015 INFO  exit: status success
+2026-10-11 21:50:48.688 INFO  startup: matuwall 0.3.2 (pid 107881)
+2026-10-11 21:50:48.688 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:50:48.688 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:50:48.689 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 21:50:48.693 INFO  state: restored selection /home/sulaimaan/Pictures/city night japan mountains.jpeg
+2026-10-11 21:50:52.023 INFO  exit: cancelled by Escape
+2026-10-11 21:50:52.024 INFO  thumbnail: summary: 11 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 2 evicted, 5941 KiB peak resident
+2026-10-11 21:50:52.024 INFO  exit: status success
+2026-10-11 21:50:54.023 INFO  startup: matuwall 0.3.2 (pid 107886)
+2026-10-11 21:50:54.023 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:50:54.023 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:50:54.024 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 21:50:54.028 INFO  state: restored selection /home/sulaimaan/Pictures/city night japan mountains.jpeg
+2026-10-11 21:50:59.203 INFO  exit: cancelled by Escape
+2026-10-11 21:50:59.204 INFO  thumbnail: summary: 11 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 2 evicted, 5941 KiB peak resident
+2026-10-11 21:50:59.204 INFO  exit: status success
+2026-10-11 21:51:01.655 INFO  startup: matuwall 0.3.2 (pid 107891)
+2026-10-11 21:51:01.655 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:51:01.656 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:51:01.656 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:51:01.660 INFO  state: restored selection /home/sulaimaan/Pictures/city night japan mountains.jpeg
+2026-10-11 21:51:09.566 INFO  exit: cancelled by Escape
+2026-10-11 21:51:09.568 INFO  thumbnail: summary: 8 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 2 evicted, 3960 KiB peak resident
+2026-10-11 21:51:09.568 INFO  exit: status success
+2026-10-11 21:51:11.865 INFO  startup: matuwall 0.3.2 (pid 107896)
+2026-10-11 21:51:11.865 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:51:11.865 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:51:11.866 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:51:11.869 INFO  state: restored selection /home/sulaimaan/Pictures/city night japan mountains.jpeg
+2026-10-11 21:51:13.107 INFO  exit: cancelled by Escape
+2026-10-11 21:51:13.107 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 3960 KiB peak resident
+2026-10-11 21:51:13.107 INFO  exit: status success
+2026-10-11 21:51:14.627 INFO  startup: matuwall 0.3.2 (pid 107901)
+2026-10-11 21:51:14.628 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:51:14.628 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:51:14.629 INFO  output: 1920x1035, grid 3x1, preview off
+2026-10-11 21:51:14.633 INFO  state: restored selection /home/sulaimaan/Pictures/city night japan mountains.jpeg
+2026-10-11 21:51:18.255 INFO  exit: cancelled by Escape
+2026-10-11 21:51:18.256 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 4 unrequested, 0 unfinished, 1 evicted, 5941 KiB peak resident
+2026-10-11 21:51:18.257 INFO  exit: status success
+2026-10-11 21:51:24.874 INFO  startup: matuwall 0.3.2 (pid 107906)
+2026-10-11 21:51:24.875 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:51:24.875 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:51:24.875 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:51:24.878 INFO  state: restored selection /home/sulaimaan/Pictures/city night japan mountains.jpeg
+2026-10-11 21:51:26.580 INFO  exit: cancelled by Escape
+2026-10-11 21:51:26.580 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 3960 KiB peak resident
+2026-10-11 21:51:26.580 INFO  exit: status success
+2026-10-11 21:51:35.273 INFO  startup: matuwall 0.3.2 (pid 107911)
+2026-10-11 21:51:35.273 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:51:35.273 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:51:35.274 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:51:35.281 INFO  state: restored selection /home/sulaimaan/Pictures/city night japan mountains.jpeg
+2026-10-11 21:51:38.857 INFO  exit: cancelled by Escape
+2026-10-11 21:51:38.857 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 3960 KiB peak resident
+2026-10-11 21:51:38.858 INFO  exit: status success
+2026-10-11 21:51:46.519 INFO  startup: matuwall 0.3.2 (pid 107916)
+2026-10-11 21:51:46.519 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:51:46.519 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:51:46.520 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:51:46.523 INFO  state: restored selection /home/sulaimaan/Pictures/city night japan mountains.jpeg
+2026-10-11 21:51:47.723 INFO  exit: cancelled by Escape
+2026-10-11 21:51:47.725 INFO  thumbnail: summary: 6 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 0 evicted, 4753 KiB peak resident
+2026-10-11 21:51:47.726 INFO  exit: status success
+2026-10-11 21:51:50.747 INFO  startup: matuwall 0.3.2 (pid 107921)
+2026-10-11 21:51:50.747 INFO  config: loaded /home/sulaimaan/.config/matuwall/config.toml
+2026-10-11 21:51:50.747 INFO  wallpapers: found 13 images in /home/sulaimaan/Pictures
+2026-10-11 21:51:50.748 INFO  output: 1920x1035, grid 2x1, preview off
+2026-10-11 21:51:50.752 INFO  state: restored selection /home/sulaimaan/Pictures/city night japan mountains.jpeg
+2026-10-11 21:52:05.146 INFO  thumbnail: summary: 10 cache hits, 0 decoded, 0 failed, 0 discarded, 0 withdrawn, 7 unrequested, 0 unfinished, 4 evicted, 4753 KiB peak resident
+2026-10-11 21:52:05.146 INFO  backend: selected configured backend awww
+2026-10-11 21:52:05.146 INFO  backend: passing 4 configured args to awww
+2026-10-11 21:52:05.183 INFO  apply: applied /home/sulaimaan/Pictures/lofi-forest-wallpaper.jpg with awww
+2026-10-11 21:52:05.184 INFO  exit: status success

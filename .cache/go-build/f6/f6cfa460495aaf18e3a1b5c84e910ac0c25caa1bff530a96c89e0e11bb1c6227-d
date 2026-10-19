@@ -1,0 +1,6 @@
+./aur_post_download.go
+./aur_preinstall.go
+./aur_source.go
+./clean.go
+./merge.go
+./preparer.go

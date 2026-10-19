@@ -1,0 +1,147 @@
+@import "colours/gruvbox-materials.css";
+
+* {
+all: unset;
+font-family: "Iosevka Nerd Font Propo", "Font Awesome 7 Brands",monospace;
+}
+
+window#waybar {
+/* background-color: @bg0; */
+color: @blue;
+border-radius: 20px;
+/* margin-top: 15px; */
+}
+
+/* #workspaces {
+    min-width: 100px;
+    padding: 2px 8px;
+    margin: 11px 0px;
+    font-size: 0.8rem;
+    border-radius: 100%;
+    
+}
+
+#workspaces button {
+     min-width: 32px;
+    background-color: @bg4;
+    color: transparent;
+    border-radius: 100%;
+    padding: 0px 6px;
+    margin: 0px 8px;
+    
+}
+
+
+#workspaces button.active {
+    background-color: @green;
+    transition: none;
+} */
+
+/* .modules-center{
+    background-color: @bg0;
+    border-radius: 99px;
+    padding: 0 20px;
+    
+} */
+
+#workspaces {
+  margin: 4px 5px;
+  padding: 6px 6px;
+  background-color: @bg0;
+  border-radius: 20px;
+}
+
+#workspaces button {
+  
+  min-width: 32px;
+  padding: 0 4px;
+  margin: 0 2px;
+  background: transparent;
+  border-radius: 16px;
+  color: @blue;
+  transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94)
+}
+
+#workspaces button.active {
+  padding: 0 12px;
+  margin: 0 2px;
+  background-color: @bg4;
+  color: @red;
+}
+
+#workspaces button.special {
+  color: @tertiary_fixed;
+}
+
+#workspaces button:hover {
+  background-color: @surface_container_highest;
+  color: @primary;
+}
+
+#workspaces button.active:hover {
+  background-color: @primary;
+  color: @on_primary;
+}
+
+#workspaces button.empty {
+  color: @outline_variant;
+}
+
+#workspaces button.urgent {
+  color: @error_container;
+}
+
+#workspaces button label:first-child {
+  margin-right: 8px;
+}
+
+#workspaces button label:last-child {
+  margin-left: 2px;
+}
+
+
+
+#clock {
+    /* font-family: "Iosevka Nerd Font";  */
+    background-color: @bg0;
+    /* border-style: solid;
+    border-color: rgba(0,66,37, 1);
+    border-width: 1px; */
+    margin: 4px 5px;
+    padding: 6px 12px;
+    border-radius: 32px;
+    font-weight: 900;
+    font-size: 1rem;
+    /* font-family: "Chango"; */
+    /* margin: 0 15px; */
+    /* letter-spacing: 1.5px; */
+    /* opacity: 0.8; */
+}
+
+.modules-left{
+    margin-left: 15px;
+}
+
+
+
+.modules-right {
+    background-color: @bg0;
+    border-radius: 99px;
+    padding: 0 15px;
+    margin-right: 15px;
+    font-size: 1rem;
+    /* opacity: 0.8; */
+}
+
+#cava {
+    margin: 0 12px;
+    font-size: 0.7rem;
+    letter-spacing: 1px;
+    
+}
+
+#pulseaudio {
+    font-size: 1rem;
+    font-weight: 600;
+    
+}

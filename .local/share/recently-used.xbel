@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///home/sulaimaan/dotfiles" added="2026-10-02T14:49:17.986998Z" modified="2026-10-02T14:49:18.003644Z" visited="2026-10-02T14:49:17.986999Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="codium" exec="'gio open %u'" modified="2026-10-02T14:49:17.987001Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="'xdg-desktop-portal-gtk %u'" modified="2026-10-02T14:49:18.003642Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sulaimaan" added="2026-10-02T14:50:14.339518Z" modified="2026-10-02T14:50:14.352463Z" visited="2026-10-02T14:50:14.339518Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="codium" exec="'gio open %u'" modified="2026-10-02T14:50:14.339520Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="'xdg-desktop-portal-gtk %u'" modified="2026-10-02T14:50:14.352461Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sulaimaan/Downloads/vecteezy_autumn-tree-pixelated_11147463_376.zip" added="2026-10-04T16:00:50.736838Z" modified="2026-10-04T16:00:54.899000Z" visited="2026-10-04T16:00:54.899000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="'gio open %u'" modified="2026-10-04T16:00:50.986798Z" count="2"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2026-10-04T16:00:54.899000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sulaimaan/Downloads/dinosaur.png" added="2026-10-04T20:41:40.865953Z" modified="2026-10-04T20:46:16.579450Z" visited="2026-10-04T20:41:40.865955Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="'gio open %u'" modified="2026-10-04T20:46:16.579447Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sulaimaan/Downloads/dinosaur.jpg" added="2026-10-04T20:44:02.589590Z" modified="2026-10-04T20:44:02.839691Z" visited="2026-10-04T20:44:02.589590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="'gio open %u'" modified="2026-10-04T20:44:02.839689Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/wlogout/assets/CREDIT.md" added="2026-10-10T21:25:51.228000Z" modified="2026-10-10T21:25:51.228000Z" visited="2026-10-10T21:25:51.228000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="dev.zed.Zed" exec="zeditor %u" modified="2026-10-10T21:25:51.228000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/wlogout/assets" added="2026-10-10T21:28:25.352000Z" modified="2026-10-10T21:28:25.352000Z" visited="2026-10-10T21:28:25.352000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %f" modified="2026-10-10T21:28:25.352000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

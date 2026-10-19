@@ -1,0 +1,11 @@
+2026-10-10 18:14:53.173 [info] StorageMainService: creating application shared storage
+2026-10-10 18:14:53.256 [info] [shared storage] Creating shared storage database at '/home/sulaimaan/.vscode-oss-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-10-10 18:14:53.257 [info] [shared storage] Initializing fallback application storage (path: /home/sulaimaan/.config/VSCodium/User/globalStorage/state.vscdb)
+2026-10-10 18:14:53.271 [info] [shared storage] Fallback application storage initialized with 66 items
+2026-10-10 18:14:53.274 [info] update#setState disabled
+2026-10-10 18:14:53.274 [info] update#ctor - updates are disabled as there is no update URL
+2026-10-10 22:08:57.913 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2026-10-10 22:09:00.617 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2026-10-10 23:01:53.139 [info] Extension host with pid 4198 exited with code: 0, signal: unknown.

@@ -1,0 +1,6 @@
+2026-10-10 11:51:11.869 [info] Getting Manifest... html-validate.vscode-html-validate
+2026-10-10 11:51:12.347 [info] Installing extension: html-validate.vscode-html-validate {"productVersion":{"version":"1.126.04524","date":"2026-06-23T01:46:13Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/sulaimaan/.vscode-oss/extensions/extensions.json","path":"/home/sulaimaan/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-10 11:51:12.742 [info] Extracted extension to file:///home/sulaimaan/.vscode-oss/extensions/html-validate.vscode-html-validate-2.17.16-universal: html-validate.vscode-html-validate
+2026-10-10 11:51:12.758 [info] Renamed to /home/sulaimaan/.vscode-oss/extensions/html-validate.vscode-html-validate-2.17.16-universal
+2026-10-10 11:51:12.795 [info] Marked extension as removed html-validate.vscode-html-validate-2.17.15-universal
+2026-10-10 11:51:12.808 [info] Extension installed successfully: html-validate.vscode-html-validate vscode-userdata:/home/sulaimaan/.vscode-oss/extensions/extensions.json

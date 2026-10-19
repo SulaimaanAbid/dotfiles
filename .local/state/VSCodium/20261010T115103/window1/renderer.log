@@ -1,0 +1,16 @@
+2026-10-10 11:51:05.527 [info] Started local extension host with pid 1853.
+2026-10-10 11:51:06.561 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-10-10 11:51:10.835 [info] Auto updating outdated extensions. html-validate.vscode-html-validate
+2026-10-10 11:51:11.493 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-10-10 11:52:36.627 [info] [perf] Render performance baseline is 35ms
+2026-10-10 16:29:24.337 [warning] [backup tracker] suspended, ignoring content change event file:///home/sulaimaan/.config/hypr/hyprlock.conf 
+2026-10-10 16:29:24.391 [warning] [backup tracker] suspended, ignoring content change event file:///home/sulaimaan/.config/hypr/hyprlock.conf 
+2026-10-10 16:29:24.424 [warning] [backup tracker] suspended, ignoring content change event file:///home/sulaimaan/.config/hypr/hyprlock.conf 
+2026-10-10 16:29:24.485 [warning] [backup tracker] suspended, ignoring content change event file:///home/sulaimaan/.config/hypr/hyprlock.conf 
+2026-10-10 16:29:24.515 [warning] [backup tracker] suspended, ignoring content change event file:///home/sulaimaan/.config/hypr/hyprlock.conf 
+2026-10-10 16:29:24.562 [warning] [backup tracker] suspended, ignoring content change event file:///home/sulaimaan/.config/hypr/hyprlock.conf 
+2026-10-10 16:29:24.597 [warning] [backup tracker] suspended, ignoring content change event file:///home/sulaimaan/.config/hypr/hyprlock.conf 
+2026-10-10 16:29:24.673 [warning] [backup tracker] suspended, ignoring content change event file:///home/sulaimaan/.config/hypr/hyprlock.conf 
+2026-10-10 16:29:24.698 [warning] [backup tracker] suspended, ignoring content change event file:///home/sulaimaan/.config/hypr/hyprlock.conf 
+2026-10-10 16:29:24.746 [warning] [backup tracker] suspended, ignoring content change event file:///home/sulaimaan/.config/hypr/hyprlock.conf 
+2026-10-10 16:29:24.782 [warning] [backup tracker] suspended, ignoring content change event file:///home/sulaimaan/.config/hypr/hyprlock.conf 

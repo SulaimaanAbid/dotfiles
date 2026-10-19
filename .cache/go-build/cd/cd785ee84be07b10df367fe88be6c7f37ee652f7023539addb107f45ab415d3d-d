@@ -1,0 +1,15 @@
+./alpm.go
+./compat.go
+./database.go
+./deps.go
+./errors.go
+./handle.go
+./handle_callbacks.go
+./handle_options.go
+./handle_pkg.go
+./iterator.go
+./package.go
+./sigs.go
+./transaction.go
+./utils.go
+./version.go

@@ -1,0 +1,5 @@
+[stream-properties]
+Audio/Sink:node.name:auto_null={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "mute":false, "volume":1.000000}
+Output/Audio:application.name:Brave={"channelVolumes":[1.000000, 1.000000], "volume":1.000000, "channelMap":["FL", "FR"], "mute":false}
+Input/Audio:application.name:cava={"channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "mute":false, "volume":1.000000}
+Input/Audio:media.name:cava={"channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false}
