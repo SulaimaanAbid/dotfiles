@@ -1,0 +1,2 @@
+{"timestamp":10003211,"category":"bounce.tracking.protection","name":"purge_action","extra":{"is_dry_run":"true","site_host":"archlinux.org","bounce_time":"1792408055","glean_timestamp":"1792412502861","success":"true"}}
+{"timestamp":10003211,"category":"bounce.tracking.protection","name":"purge_action","extra":{"glean_timestamp":"1792412502861","bounce_time":"1792406868","success":"true","is_dry_run":"true","site_host":"reddit.com"}}

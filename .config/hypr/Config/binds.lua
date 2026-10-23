@@ -21,6 +21,7 @@ hl.bind(mainMod .. " + R", hl.dsp.exec_cmd("~/.config/waybar/scripts/launch.sh")
 hl.bind(mainMod .. " + B", hl.dsp.exec_cmd("~/.config/swaync/scripts/launch.sh"))
 hl.bind(mainMod .. " + DELETE", hl.dsp.exec_cmd("~/.config/wlogout/script/launch.sh"))
 hl.bind(mainMod .. " + F", hl.dsp.exec_cmd("~/.config/matuwall/scripts/launch.sh"))
+hl.bind(mainMod .. " + L", hl.dsp.exec_cmd("~/.config/hypr/scripts/hyprlock.sh"))
 hl.bind(mainMod .. " + P", hl.dsp.window.pseudo())
 hl.bind(mainMod .. " + J", hl.dsp.layout("togglesplit"))    -- dwindle only
 

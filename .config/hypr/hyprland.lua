@@ -17,6 +17,8 @@
 -- Create your files separately and then require them like this:
 -- require("myColors")
 
+-- Matugen
+
 
 require("Config.monitors")
 require("Config.env")
@@ -28,6 +30,8 @@ require("Config.layouts")
 require("Config.misc")
 require("Config.inputs")
 require("Config.workspacerules")
+
+
 
 
 

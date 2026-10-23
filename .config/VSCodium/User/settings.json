@@ -1,6 +1,21 @@
 {
-    "editor.fontSize": 13,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "files.autoSave": "afterDelay",
-    "editor.fontFamily": "'JetBrainsMono Nerd Font Propo'"
+    "editor.fontFamily": "'JetBrainsMono Nerd Font Mono', monospace",
+    "colorize.colorized_colors": [
+        "ARGB",
+        "BROWSERS_COLORS",
+        "HEXA",
+        "HEX",
+        "RGB",
+        "RGBA",
+        "HSL",
+        "OKLAB",
+        "OKLCH"
+    ],
+    "colorize.languages": [
+        "lua",
+        "css",
+        "conf",
+    ],
+    "colorize.decoration_type": "square-dot",
+    "sqltools.autoConnectTo": ""
 }

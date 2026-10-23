@@ -1,13 +1,10 @@
 {
     "telemetry.sqmId": "",
-    "telemetry.machineId": "67e7323f4167cf0a676a519ed3b552e1b6361edfb6aee25473a8ced5ca7d7a39",
-    "telemetry.devDeviceId": "0361f8fa-17cc-4d0f-a2f1-0759f28a8a42",
+    "telemetry.machineId": "14bd7b81334a7e8e280be973721f3dde5888b70b671e3733a0896eb9d45c3848",
+    "telemetry.devDeviceId": "4b096b00-fdc7-47c2-a88d-f3fa5023d049",
     "backupWorkspaces": {
         "workspaces": [],
         "folders": [
-            {
-                "folderUri": "file:///home/sulaimaan/.config"
-            },
             {
                 "folderUri": "file:///home/sulaimaan"
             }
@@ -17,10 +14,6 @@
     "windowControlHeight": 35,
     "profileAssociations": {
         "workspaces": {
-            "file:///home/sulaimaan/.config/hypr/Config": "__default__profile__",
-            "file:///home/sulaimaan/.config": "__default__profile__",
-            "file:///home/sulaimaan/Downloads": "__default__profile__",
-            "file:///": "__default__profile__",
             "file:///home/sulaimaan": "__default__profile__"
         },
         "emptyWindows": {}
@@ -31,8 +24,8 @@
             "backupPath": "/home/sulaimaan/.config/VSCodium/Backups/ddfe30b748e1f9c386bcf3910667bc75",
             "uiState": {
                 "mode": 0,
-                "x": 1,
-                "y": 0,
+                "x": 16,
+                "y": 10,
                 "width": 1920,
                 "height": 1080
             }
@@ -49,12 +42,27 @@
             "background": "#121314",
             "editorBackground": "#121314",
             "titleBarBackground": "#191a1b",
+            "titleBarInactiveBackground": "#121314",
             "titleBarBorder": "#2a2b2c",
             "activityBarBackground": "#191a1b",
             "activityBarBorder": "#2a2b2c",
+            "modernActivityBarBackground": "#191a1b",
+            "modernActivityBarInactiveBackground": "#191a1b",
+            "modernActivityBarBorder": "#252526",
+            "modernPanelBorder": "#2a2b2c",
+            "modernUIShellBackground": "#191a1b",
+            "modernUIInactiveShellBackground": "#121314",
             "sideBarBackground": "#191a1b",
             "sideBarBorder": "#2a2b2c",
+            "panelBackground": "#191a1b",
+            "editorGroupBorder": "rgba(255, 255, 255, 0.09)",
+            "editorBorder": "#2a2b2c",
+            "surfaceBackground": "#191a1b",
+            "surfaceBorder": "#2a2b2c",
+            "agentsPanelBackground": "#191a1b",
+            "agentsPanelBorder": "#2a2b2c",
             "statusBarBackground": "#191a1b",
+            "statusBarInactiveBackground": "#121314",
             "statusBarBorder": "#2a2b2c",
             "statusBarNoFolderBackground": "#191a1b"
         },
@@ -63,34 +71,58 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 232,
+            "sideBarWidth": 241,
             "auxiliaryBarWidth": 0,
-            "statusBarHeight": 22,
-            "windowBorder": false
+            "statusBarHeight": 28,
+            "windowBorder": false,
+            "modernUI": true,
+            "modernUICompact": false,
+            "partBounds": {
+                "activityBar": {
+                    "top": 35,
+                    "left": 4,
+                    "width": 44,
+                    "height": 924,
+                    "outerEdges": {
+                        "left": true,
+                        "right": false,
+                        "top": true,
+                        "bottom": true
+                    }
+                },
+                "sideBar": {
+                    "top": 35,
+                    "left": 48,
+                    "width": 241,
+                    "height": 924,
+                    "outerEdges": {
+                        "left": false,
+                        "right": false,
+                        "top": true,
+                        "bottom": true
+                    }
+                },
+                "editor": {
+                    "top": 35,
+                    "left": 293,
+                    "width": 633,
+                    "height": 924,
+                    "outerEdges": {
+                        "left": false,
+                        "right": true,
+                        "top": true,
+                        "bottom": true
+                    }
+                }
+            }
         }
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
-            "sideBarWidth": 232,
-            "auxiliaryBarWidth": 300,
+            "sideBarWidth": 241,
+            "auxiliaryBarWidth": 170,
             "workspaces": {
-                "7df0f17e5bad65b151fc0d9e03fc4a67": {
-                    "sideBarVisible": true,
-                    "auxiliaryBarVisible": false
-                },
-                "e77191f90d406e72a640c098b6c7704c": {
-                    "sideBarVisible": true,
-                    "auxiliaryBarVisible": false
-                },
-                "b566613e8f25019547f01146b7da030a": {
-                    "sideBarVisible": true,
-                    "auxiliaryBarVisible": false
-                },
-                "de045d141a8b035fd6afde5a0c3a97e9": {
-                    "sideBarVisible": true,
-                    "auxiliaryBarVisible": false
-                },
-                "178c1fade0aa972c020cf3bef4332003": {
+                "9209aa5455628dcc5704080cc35b84c1": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 }

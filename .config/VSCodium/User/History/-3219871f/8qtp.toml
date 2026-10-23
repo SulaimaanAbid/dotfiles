@@ -1,0 +1,36 @@
+
+[config]
+source_color_index = 0
+contrast = 0
+
+
+
+
+[templates.hyprland]
+input_path = '~/.config/matugen/templates/hyprland-colours.lua'
+output_path = '~/.config/hypr/colors.lua'
+post_hook = 'hyprctl reload'
+
+
+[templates.rofi]
+input_path = '~/.config/matugen/templates/rofi-colours.rasi'
+output_path = '~/.config/rofi/type-3//colours/colors.rasi'
+
+[templates.waybar]
+input_path = '~/.config/matugen/templates/waybar-colours.css'
+output_path = '~/.config/waybar/colours/colors.css'
+post_hook = 'pkill -SIGUSR2 waybar'
+
+[templates.swaync]
+input_path = "~/.config/matugen/templates/swaync-colours.css"
+output_path = "~/.config/swaync/colors/colors.css"
+post_hook = "swaync-client -rs"
+
+[templates.wlogout]
+input_path = '~/.config/matugen/templates/wlogout-colours.css'
+output_path = '~/.config/wlogout/colors.css'
+
+[templates.hyprlock]
+input_path = 'path/to/template'
+output_path = '~/.config/hypr/colors.conf' # If using lua config replace *.conf* with *.lua* at the end
+# ...

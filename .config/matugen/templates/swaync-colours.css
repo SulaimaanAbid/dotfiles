@@ -1,0 +1,16 @@
+/*
+* Css Colors
+* Generated with Matugen
+*/
+/*
+* Css Colors
+* Generated with Matugen
+*/
+<* for name, value in colors *>
+    @define-color {{name}} {{value.default.hex}};
+<* endfor *>
+
+@define-color surface_container {{colors.surface_container.default.hex}}cc;
+@define-color scrim_opaque {{colors.scrim.default.hex}}dd;
+@define-color selected                  alpha(@scrim, .4);
+@define-color hover                     alpha(@selected, .4);

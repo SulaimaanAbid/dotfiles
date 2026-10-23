@@ -1,0 +1,6 @@
+2026/10/19-19:05:20.429 227f Creating DB /home/sulaimaan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_secure.indeed.com_0.indexeddb.leveldb since it was missing.
+2026/10/19-19:05:20.438 227f Reusing MANIFEST /home/sulaimaan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_secure.indeed.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/19-19:05:25.818 2280 Level-0 table #5: started
+2026/10/19-19:05:25.821 2280 Level-0 table #5: 1042 bytes OK
+2026/10/19-19:05:25.827 2280 Delete type=0 #3
+2026/10/19-19:05:25.827 2280 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

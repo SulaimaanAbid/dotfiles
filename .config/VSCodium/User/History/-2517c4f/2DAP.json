@@ -1,0 +1,11 @@
+{
+    "editor.fontFamily": "'JetBrainsMono Nerd Font Mono', monospace",
+    "colorize.colorized_colors": [
+        "BROWSERS_COLORS",
+        "HEXA",
+        "RGB",
+        "HSL",
+        "OKLAB",
+        "OKLCH"
+    ]
+}

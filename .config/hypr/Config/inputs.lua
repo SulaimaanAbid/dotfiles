@@ -19,20 +19,16 @@ hl.config({
         },
     },
     cursor = {
-        no_hardware_cursors = 1,
+        -- no_hardware_cursors = 1,
         -- enable_hyprcursor = true,
     },
 })
 
-hl.gesture({
-    fingers = 3,
-    direction = "horizontal",
-    action = "workspace"
-})
+-- hl.gesture({
+--     fingers = 3,
+--     direction = "horizontal",
+--     action = "workspace"
+-- })
 
 -- Example per-device config
 -- See https://wiki.hypr.land/Configuring/Advanced-and-Cool/Devices/ for more
-hl.device({
-    name        = "virtualps/2-vmware-vmmouse-1",
-    enabled = true,
-})

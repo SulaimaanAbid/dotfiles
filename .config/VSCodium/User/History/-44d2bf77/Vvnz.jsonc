@@ -1,0 +1,150 @@
+{
+    "layer": "top",
+	// "width": 1000,
+	"margin": "5px 0 0 0",
+	
+    "modules-right": ["cava", "pulseaudio" ],
+    "modules-center": ["hyprland/workspaces"],
+    "modules-left": ["clock"],
+    "modules": ["battery", "clock"],
+
+//     "hyprland/workspaces": {
+// 	"format": "{icon}",
+// 	"format-icons": {
+// 		"1": "",
+// 		"2": "",
+// 		"3": "",
+// 		"4": "",
+// 		"5": "",
+// 		"6": "",
+// 		"7": "",
+// 		"8": "",
+// 		"9": "",
+// 		"10": "",
+
+// 	},
+// 	"all-outputs": true,
+// 	"show-special":true,
+//     "window-rewrite-default": "󰊠",
+//     "window-rewrite": {
+//       // --- Work ---
+//       "kitty": "󰆍",
+//       "code": "󰨞",
+    
+//     },
+//     // "format-icons": {
+//     //   "active": "󰮯",
+//     //   "special": "󱁂",
+//     //   "default": "󰊠",
+//     //   "urgent": "󰧵",
+//     //   "empty": ""
+//     // },
+  
+//   },
+
+
+
+  "hyprland/workspaces": {
+    "format": "{icon}  {windows}",
+    "on-click": "activate",
+    "persistent-workspaces": {
+      "*": 5
+    },
+    "window-rewrite-default": "󰶵",
+    "window-rewrite": {
+      // --- Work ---
+      "kitty": "󰆍",
+      "onlyoffice": "󰏆",
+      "brave-browser": "<span font_family='Font Awesome 7 Brands'></span>",
+      "codium": "󰨞",
+      "azahar": "",
+      "obsidian": "󰹕",
+      "mousepad": "󱓧",
+      // --- Apps ---
+      "discord": "",
+      "spotify": "",
+      "org.kde.kdeconnect.app": "󰦉",
+      "org.qbittorrent.qBittorrent": "󰘿",
+      // --- Graphics & Visual ---
+      "xdg-desktop-portal-gtk": "",
+      "org.kde.dolphin": "",
+      "yazi": "󰇥",
+      "imv": "󰄄",
+      "swappy": "󰄄",
+      "org.gnome.FileRoller": "",
+      "vlc": "󰕼",
+      "mpv": "󰕼",
+      // --- System ---
+      "blueman-manager": "",
+      "pavucontrol": "󱕂",
+      "nm-connection-editor": "󰐻",
+      // --- Tool ---
+      "nwg-look": "󰒓",
+      "qt5ct": "󰒓",
+      "qt6ct": "󰒓",
+      "designer": "󰒓",
+      "linguist": "󰒓",
+      "assistant": "󰒓",
+      "pixeltool": "󰒓",
+      "qdbusviewer": "󰒓"
+    },
+    "format-icons": {
+      "active": "󱍢",
+      "special": "󱁂",
+      "default": "󰶵",
+      "urgent": "󰧵",
+      "empty": ""
+    },
+    "show-special": true,
+    "all-outputs": true
+  },
+
+
+
+    "clock": {
+		"format": "{:%H:%M}",
+        "format-alt": "{:%a, %d. %b  %H:%M}",
+		
+    },
+
+    "pulseaudio": {
+	"format": "{volume}%  ",
+	"format-bluetooth": " {icon}  {volume}%",
+	"format-muted": "",
+	"format-icons": {
+		"headphone": "",
+		"hands-free": "",
+		"headset": "",
+		"phone": "",
+		"phone-muted": "",
+		"portable": "",
+		"car": "",
+		"default": ["󰖀", "󰕾"]
+	},
+	"scroll-step": 1,
+	"on-click": "pavucontrol"
+    },
+
+    "cava": {
+	//"cava_config": "$XDG_CONFIG_HOME/cava/cava.conf",
+	"framerate": 30,
+	"autosens": 0,
+	"sensitivity": 0.001,
+	"bars": 14,
+	"lower_cutoff_freq": 50,
+	"higher_cutoff_freq": 10000,
+	"method": "pulse",
+	"source": "auto",
+	"stereo": true,
+	"reverse": false,
+	"monstercat": false,
+	"waves": false,
+	"noise_reduction": 0.6,
+	"input_delay": 2,
+	"bar_delimiter": 0,
+	"format-icons" : ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█" ],
+	"actions": {
+		"on-click-right": "mode"
+	}
+    },
+}

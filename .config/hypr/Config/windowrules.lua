@@ -58,9 +58,13 @@ hl.layer_rule ({
 
 hl.layer_rule ({
     match = {namespace="logout_dialog"},
-    animation = "slide top",
     blur = true,
-    ignore_alpha = 0.2,
+    ignore_alpha = 0.1,
+})
+
+hl.window_rule({
+    match = { class = "Spotify"},
+    opacity = "0.7 override 0.7 override 0.8 override"
 })
 -- Layer rules also return a handle.
 -- local overlayLayerRule = hl.layer_rule({

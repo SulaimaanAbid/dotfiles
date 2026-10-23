@@ -111,7 +111,7 @@ height = 338 # 169
 # Placeholder tile shown until a thumbnail is ready
 tile = "#313244ff"
 
-# Border drawn inside every thumbnail
+# Border drawn inside every thumbnail 
 border = "#585b70ff"
 
 # Shadow fading outward from thumbnail edges
@@ -126,7 +126,16 @@ spinner = "#cdd0e6ff"
 [hooks]
 # Commands run after the wallpaper is applied, e.g. to regenerate a colorscheme
 # More info: https://github.com/naurissteins/Matuwall/wiki/Hooks
-# on_apply = [
-#   "matugen image {path} --source-color-index 1",
-#   "wal -i {path} -n",
-# ]
+
+on_apply = [
+   "matugen image {path} --type scheme-tonal-spot -m dark",
+   "/home/sulaimaan/.config/matuwall/scripts/wallpaperhook.sh {path}",
+]
+#Options:
+#  -t, --type <TYPE>
+#          Sets a custom color scheme type [
+#            default: scheme-tonal-spot] [
+#                possible values: scheme-content, scheme-expressive, scheme-fidelity, scheme-fruit-salad, 
+#                scheme-monochrome, scheme-neutral, scheme-rainbow, scheme-tonal-spot, scheme-vibrant, scheme-smart]
+
+# best few: 1. Content 2. Tonal-spot 3. Rainbow 4. vibrant

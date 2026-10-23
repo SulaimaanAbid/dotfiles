@@ -57,9 +57,11 @@
       "onlyoffice": "󰏆",
       "brave-browser": "<span font_family='Font Awesome 7 Brands'></span>",
       "codium": "󰨞",
+      "firefox": "",
       "azahar": "",
       "obsidian": "󰹕",
       "mousepad": "󱓧",
+      "rider": "",
       // --- Apps ---
       "discord": "",
       "spotify": "",
@@ -109,12 +111,12 @@
 
     "pulseaudio": {
 	"format": "{volume}%  ",
-	"format-bluetooth": " {icon} {volume}%",
+	// "format-bluetooth": "{volume}%  ",
 	"format-muted": "",
 	"format-icons": {
 		"headphone": "",
-		"hands-free": "󰂑",
-		"headset": "󰂑",
+		"hands-free": "",
+		"headset": "",
 		"phone": "",
 		"phone-muted": "",
 		"portable": "",
@@ -139,7 +141,7 @@
 	"reverse": false,
 	"monstercat": false,
 	"waves": false,
-	"noise_reduction": 0.6,
+	"noise_reduction": 0.7,
 	"input_delay": 2,
 	"bar_delimiter": 0,
 	"format-icons" : ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█" ],

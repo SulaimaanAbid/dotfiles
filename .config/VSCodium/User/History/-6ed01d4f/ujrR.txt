@@ -1,0 +1,6 @@
+1. Wallpaper + Theme switcher in 1
+2. Better wlogout + lock Screen - Maturpland themed wlogout maybe, and sane aspect time logout with matugen colours?
+(https://github.com/zDyant/HyprNova or https://github.com/BlackSparkz/hobbyist-dotfiles)
+3. Better Calendar
+4. Better Bluetooth
+5. Clipboard
