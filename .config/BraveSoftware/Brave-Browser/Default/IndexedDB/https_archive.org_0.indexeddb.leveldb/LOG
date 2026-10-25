@@ -1,6 +1,0 @@
-2026/09/13-20:33:59.786 4ad Creating DB /home/sulaimaan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_archive.org_0.indexeddb.leveldb since it was missing.
-2026/09/13-20:33:59.792 4ad Reusing MANIFEST /home/sulaimaan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_archive.org_0.indexeddb.leveldb/MANIFEST-000001
-2026/09/13-20:58:35.392 4ae Level-0 table #5: started
-2026/09/13-20:58:35.395 4ae Level-0 table #5: 2425 bytes OK
-2026/09/13-20:58:35.398 4ae Delete type=0 #3
-2026/09/13-20:58:35.398 4ae Manual compaction at level-0 from (begin) .. (end); will stop at (end)

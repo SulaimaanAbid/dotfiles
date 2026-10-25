@@ -1,4 +1,0 @@
-/*  Command to change icon colour (First time): */
-/* sed -i 's/<path d="/<path fill="#newcolour" d="/g' ~/.config/wlogout/icons/*.svg    */
-/* or Afterwards */
-/* sed -i 's/#oldcolour/#newcolour/g' ~/.config/wlogout/icons/*.svg     */

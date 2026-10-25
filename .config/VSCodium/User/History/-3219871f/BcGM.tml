@@ -1,6 +1,0 @@
-[config]
-# ...
-[templates.hyprland]
-input_path = 'path/to/template'
-output_path = '~/.config/hypr/colors.conf' # If using lua config replace *.conf* with *.lua* at the end
-# ...

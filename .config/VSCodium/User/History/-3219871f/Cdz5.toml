@@ -1,8 +1,0 @@
-
-
-[config]
-# ...
-[templates.hyprland]
-input_path = '~/.config/matugen/templates/hyprland-colours.lua'
-output_path = '~/.config/hypr/colors.lua'
-# ...

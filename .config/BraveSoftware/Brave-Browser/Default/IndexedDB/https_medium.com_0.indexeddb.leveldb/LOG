@@ -1,7 +1,0 @@
-2026/10/22-12:46:12.854 7fb Reusing MANIFEST /home/sulaimaan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/10/22-12:46:12.854 7fb Recovering log #3
-2026/10/22-12:46:12.856 7fb Reusing old log /home/sulaimaan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb/000003.log 
-2026/10/22-12:46:21.733 7fc Level-0 table #5: started
-2026/10/22-12:46:21.737 7fc Level-0 table #5: 41934 bytes OK
-2026/10/22-12:46:21.742 7fc Delete type=0 #3
-2026/10/22-12:46:21.742 7fc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

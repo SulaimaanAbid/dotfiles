@@ -1,6 +1,0 @@
-[config]
-# ...
-[templates.rofi]
-input_path = 'path/to/template'
-output_path = '~/.config/rofi/colors.rasi'
-# ...

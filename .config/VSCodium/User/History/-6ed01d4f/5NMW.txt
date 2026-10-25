@@ -1,5 +1,0 @@
-1. Wallpaper + Theme switcher in 1
-2. Better Lock Screen
-3. Better Calendar
-4. Better Bluetooth
-5. Clipboard

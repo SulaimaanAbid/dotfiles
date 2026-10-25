@@ -89,6 +89,24 @@ border-radius: 20px;
     /* opacity: 0.8; */
 }
 
+
+
+
+/* Calendar tooltip */
+tooltip {
+    font-family: "Iosevka Nerd Font Propo", monospace;
+    background: @inverse_on_surface;
+    border: 1px solid @outline_variant;
+    border-radius: 12px;
+    padding: 8px;
+}
+
+tooltip label {
+    font-family: "Iosevka Nerd Font Propo", monospace;
+    color: @surface_tint;
+    padding: 4px;
+}
+
 .modules-left{
     margin-left: 600px;
 }
