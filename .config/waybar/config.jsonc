@@ -107,6 +107,7 @@
 		"format": "{:%H:%M}",
         "format-alt": "{:%a, %d. %b  %H:%M}",
         "tooltip-format": "<tt><small>{calendar}</small></tt>",
+        "tooltip-format": "<span size='9pt' font='JetBrainsMono Nerd Font Mono'>{calendar}</span>",
         "calendar": {
           "mode"             : "months",
           "mode-mon-col"     : 3,
