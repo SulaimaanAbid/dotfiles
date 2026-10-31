@@ -7,9 +7,6 @@ Please check the notes on the relevant section if you need any help.
 Wallpapers are in dotfiles/Pictures
 Files are in dotfiles/.config
 
-Demo
-![Demo](demo1.mp4)
-
 ## Screenshots and notes
 <details>
 <summary>Matuwall and Matugen</summary>
