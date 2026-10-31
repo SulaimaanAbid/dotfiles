@@ -130,6 +130,9 @@ Install with AUR (yay -S terminal-rain)
 
 ## Inspirations
 
+<details>
+<summary>Inspirations</summary>
+
 1. SaneAspect Rice guide with Lua syntax (https://www.youtube.com/watch?v=USzJr9EZS_c&t=5432s)
 
 2. Waybar - Athena  (https://github.com/haikal-hakim/athena/tree/main/.config/waybar)
@@ -141,3 +144,5 @@ Install with AUR (yay -S terminal-rain)
 5. Wlogout theme - HyprNova/Matuprland (https://github.com/zDyant/HyprNova / https://github.com/Abhra00/Matuprland)
 
 6. Hyprlock theme - Black Sparkz (https://github.com/BlackSparkz/hobbyist-dotfiles) and Maturpland (https://github.com/Abhra00/Matuprland)
+
+</details>
